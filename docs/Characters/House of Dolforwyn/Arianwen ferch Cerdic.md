@@ -1,5 +1,5 @@
 > [!infobox]+
-> ![[../../images/Arianwen ferch Cerdic.png|cover]]
+> ![[Arianwen ferch Cerdic.png|cover]]
 > ##### Arianwen ferch Cerdic
 > || Relations   |
 > | ---- | ---- |
