@@ -1,5 +1,5 @@
 > [!infobox]+
-> ![[../../images/Eilwen ferch Ealdred.png|cover]]
+> ![[Eilwen ferch Ealdred.png|cover]]
 > ##### Eilwen ferch Ealdred
 > || Relations   |
 > | ---- | ---- |
