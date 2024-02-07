@@ -3,7 +3,7 @@
 > ##### Gwilym ap Cynric
 > || Relations   |
 > | ---- | ---- |
-> | Father | [[Cynric ap Gwilym.png|Cynric ap Gwilym.png]]|
+> | Father |  [[Cynric ap Gwilym †|Cynric ap Gwilym †]] |
 > | Mother | [[Branwen of Boudica|Branwen of Boudica]] |
 > | Spouse | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] |
 > | Children| [[Geraint ap Gwilym|Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
