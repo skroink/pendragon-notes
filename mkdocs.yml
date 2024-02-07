@@ -1,6 +1,6 @@
 site_name: Pendragon Notes # Change this to your site name
 site_description: Obsdian notes
-site_url: skroink.github.io/pendragon-notes # Change this to your site URL
+site_url: http://skroink.github.io/pendragon-notes # Change this to your site URL
 site_author: skroink
 
 theme:
