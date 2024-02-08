@@ -1,6 +1,6 @@
 > [!infobox]+
 > ![[Bran ap Cynric.png|cover]]
-> ##### Bran ap Cynric Lord of Dolforwyn 
+> 
 > || Relations   |
 > | ---- | ---- |
 > | Father | [[Cynric ap Gwilym †|Cynric ap Gwilym †]] |
