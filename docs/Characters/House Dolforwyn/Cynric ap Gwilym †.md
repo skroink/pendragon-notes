@@ -1,6 +1,16 @@
 ---
 House: House Dolforwyn
+Father: Gwilym
+Birth: "420"
+Death: "479"
+Marriage:
+  - "[[Branwen of Boudica|Branwen of Boudica]]"
+Children:
+  - "[[Bran ap Cynric|Bran ap Cynric]]"
+  - "[[Elowen ferch Branwen †|Elowen ferch Branwen †]]"
+  - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
 ---
+
 
 > [!infobox]+
 > 
@@ -14,16 +24,16 @@ House: House Dolforwyn
 > 
 > || Status |
 > |--|--|
-> | Status | Deceased |
-> | Birth | [[420|420]] |
-> | Death | [[479|479]] <small>(Age 59)</small> |
+> |Status| Deceased|
+> | Birth | [420](420) |
+> | Death | [479](479) <small>(Age 59)</small> |
 >
 > || Relations   |
 > | ---- | ---- |
 > | Father | Gwilym |
 > | Mother |  |
-> | Spouse | [[Branwen of Boudica|Branwen of Boudica]] <small>([[440|440]])</small> |
-> | Children| [[Bran ap Cynric|Bran ap Cynric]], [[Elowen ferch Branwen †|Elowen ferch Branwen †]], [[Gwilym ap Cynric|Gwilym ap Cynric]] |
+> | Spouse | [[Characters/House Dolforwyn/Branwen of Boudica.md|Branwen of Boudica]] |
+> | Children| [[Characters/House Dolforwyn/Bran ap Cynric.md|Bran ap Cynric]],[[Characters/House Dolforwyn/Elowen ferch Branwen †.md|Elowen ferch Branwen †]],[[Characters/House Dolforwyn/Gwilym ap Cynric.md|Gwilym ap Cynric]] |
 > | Siblings ||
 
 ## Early Life
