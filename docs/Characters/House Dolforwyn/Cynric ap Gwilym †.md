@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> ![[Cynric ap Gwilym.png|cover]]
+> ![[Lord Cynric.png|cover]]
 >
 > || Lord of Dolforwyn   |
 > | ---- | ---- |
@@ -8,7 +8,7 @@
 >|Predecessor | Gwilym |
 >|Heir| [[Bran ap Cynric|Bran ap Cynric]]|
 > 
-> || Status |
+> | Status |
 > |--|--|
 > | Status | Deceased |
 > | Birth | [[420|420]] |
