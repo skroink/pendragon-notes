@@ -1,5 +1,7 @@
 > [!infobox]+
+> 
 >  ##### Gwilym ap Cynric
+>  
 > ![[Gwilym ap Cynric.png|cover]]
 >
 >|| Status |
