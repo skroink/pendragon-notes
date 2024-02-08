@@ -14,7 +14,6 @@ Siblings:
 > [!infobox]+
 > ![[Madoc ap Gwilym.png|cover]]
 >
->
 || Status   |
 > | ---- | ---- |
 > |Status| Alive|
