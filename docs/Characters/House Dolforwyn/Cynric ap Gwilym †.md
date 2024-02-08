@@ -1,6 +1,10 @@
 > [!infobox]+
 > 
-> 
+>  ![[Cynric ap Gwilym.png|cover]]
+>
+>
+
+
 > || Lord of Dolforwyn   |
 > | ---- | ---- |
 > |Reign | [[445|445]] - [[479|479]] |
