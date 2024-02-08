@@ -2,7 +2,7 @@
 > 
 > ![[Lord Cynric.png|cover]]
 >
-> | Lord of Dolforwyn   |
+> || Lord of Dolforwyn   |
 > | ---- | ---- |
 > |Reign | [[445|445]] - [[479|479]] |
 >|Predecessor | Gwilym |
