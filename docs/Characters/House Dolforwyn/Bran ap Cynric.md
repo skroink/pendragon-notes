@@ -1,9 +1,27 @@
 ---
 House: House Dolforwyn
+Birth: "440"
+tewst: 
+---
+---
+House: House Dolforwyn
+Birth: "440"
+tewst:
 ---
 > [!infobox]+
 > ![[Bran ap Cynric.png|cover]]
 > 
+>  || Lord of Dolforwyn   |
+> | ---- | ---- |
+> |Reign | [[479|479]] |
+>|Predecessor | [[Cynric ap Gwilym †|Cynric ap Gwilym †]] |
+>|Heir apparent| [[Emrys ap Bran|Emrys ap Bran]]|
+>
+> || Status   |
+> | ---- | ---- |
+> |Status| Alive|
+> |Birth| [440](440) <small>(Age 45)</small> |
+>
 > || Relations   |
 > | ---- | ---- |
 > | Father | [[Cynric ap Gwilym †|Cynric ap Gwilym †]] |
