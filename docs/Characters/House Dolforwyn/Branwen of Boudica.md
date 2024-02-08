@@ -1,6 +1,3 @@
----
-status: Alive
----
 > [!infobox]+
 > 
 > ![[Branwen of Boudica.png|cover]]
@@ -13,7 +10,6 @@ status: Alive
 > | ---- | ---- |
 > |Status| Alive|
 > |Birth| [[422|422]] |
-> 
 >
 > || Relations   |
 > | ---- | ---- |
