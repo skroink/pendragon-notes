@@ -1,5 +1,6 @@
 ---
 House: House Dolforwyn
+Birth: "442"
 ---
 
 > [!infobox]+
@@ -7,10 +8,10 @@ House: House Dolforwyn
 >  
 > ![[Gwilym ap Cynric.png|cover]]
 >
->|| Status |
-> |--|--|
-> |Status|Alive|
-> |Birth| [[442|442]] <small>(Age 43)</small>|
+> || Status   |
+> | ---- | ---- |
+> |Status| Alive|
+> |Birth| [442](442) <small>(Age 43)</small> |
 >
 > || Relations   |
 > | ---- | ---- |

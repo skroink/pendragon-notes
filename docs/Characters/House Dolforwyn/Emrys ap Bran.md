@@ -1,10 +1,16 @@
 ---
 House: House Dolforwyn
+Birth: "458"
 ---
 
 > [!infobox]+
 > ![[Emrys ap Bran.png|cover]]
-> ##### Emrys ap Bran
+>
+> || Status   |
+> | ---- | ---- |
+> |Status| Alive|
+> |Birth| [458](458) <small>(Age 27)</small> |
+>
 > || Relations   |
 > | ---- | ---- |
 > | Father | [[Bran ap Cynric|Bran ap Cynric]] |

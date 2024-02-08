@@ -1,10 +1,16 @@
 ---
 House: House Dolforwyn
+Birth: "463"
 ---
 
 > [!infobox]+
 > ![[Maelona ferch Eilwen.png|cover]]
-> ##### Maelona ferch Eilwen
+>
+> || Status   |
+> | ---- | ---- |
+> |Status| Alive|
+> |Birth| [463](463) <small>(Age 22)</small> |
+>
 > || Overview   |
 > | ---- | ---- |
 > || Relations   |
@@ -13,6 +19,4 @@ House: House Dolforwyn
 > | Spouse |  |
 > | Children| |
 > | Siblings | <small>[[Geraint ap Gwilym|Geraint ap Gwilym]] (Older brother), [[Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small> |
-> | | |
-> | Birth | [[463 AC|463 AC]] |
 

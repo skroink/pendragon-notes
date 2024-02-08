@@ -1,10 +1,21 @@
 ---
 House: House Dolforwyn
+Birth: "462"
+Father: "[[Bran ap Cynric]]"
+Mother: "[[Arianwen ferch Cerdic]]"
+Siblings:
+  - "[[Emrys ap Bran|Emrys ap Bran]]"
+Gender: Female
 ---
 
 > [!infobox]+
 > ![[Seren ferch Arianwen.png|cover]]
-> ##### Seren ferch Arianwen
+>
+> || Status   |
+> | ---- | ---- |
+> |Status| Alive|
+> |Birth| [462](462) <small>(Age 23)</small> |
+>
 > || Relations   |
 > | ---- | ---- |
 > | Father ||
@@ -13,3 +24,5 @@ House: House Dolforwyn
 > | Children||
 > | Siblings ||
 
+
+<span><span><p>test</p></span></span>
