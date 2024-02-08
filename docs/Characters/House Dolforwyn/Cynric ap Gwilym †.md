@@ -2,7 +2,7 @@
 House: House Dolforwyn
 Father: Gwilym
 Birth: "420"
-Death: "479"
+Death: 
 Marriage:
   - "[[Branwen of Boudica|Branwen of Boudica]]"
 Children:
@@ -24,16 +24,16 @@ Children:
 > 
 > || Status |
 > |--|--|
-> |Status| Deceased|
+> |Status| Alive|
 > | Birth | [420](420) |
-> | Death | [479](479) <small>(Age 59)</small> |
+> | Death |  <small>(Age -420)</small> |
 >
 > || Relations   |
 > | ---- | ---- |
 > | Father | Gwilym |
 > | Mother |  |
 > | Spouse | [[Characters/House Dolforwyn/Branwen of Boudica.md|Branwen of Boudica]] |
-> | Children| [[Characters/House Dolforwyn/Bran ap Cynric.md|Bran ap Cynric]],[[Characters/House Dolforwyn/Elowen ferch Branwen †.md|Elowen ferch Branwen †]],[[Characters/House Dolforwyn/Gwilym ap Cynric.md|Gwilym ap Cynric]] |
+> | Children| [Bran ap Cynric](Characters/House Dolforwyn/Bran ap Cynric.md), [Elowen ferch Branwen †](Characters/House Dolforwyn/Elowen ferch Branwen †.md), [Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) |
 > | Siblings ||
 
 ## Early Life
