@@ -1,6 +1,10 @@
 ---
 House: House Dolforwyn
 Birth: "440"
+Siblings:
+  - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
+  - "[[Elowen ferch Branwen †|Elowen ferch Branwen †]]"
+Gender: Male
 ---
 > [!infobox]+
 > ![[Bran ap Cynric.png|cover]]
@@ -23,3 +27,6 @@ Birth: "440"
 > | Spouse | [[Arianwen ferch Cerdic|Arianwen ferch Cerdic]] |
 > | Children| [[Emrys ap Bran|Emrys ap Bran]], [[Seren ferch Arianwen|Seren ferch Arianwen]] |
 > | Siblings | <small>[[Gwilym ap Cynric|Gwilym ap Cynric]] (younger sister), [[Elowen ferch Branwen †|Elowen ferch Branwen †]] (younger sister)</small> |
+
+
+[Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) (Younger Brother), [Elowen ferch Branwen †](Characters/House Dolforwyn/Elowen ferch Branwen †.md) (Younger Sister)
