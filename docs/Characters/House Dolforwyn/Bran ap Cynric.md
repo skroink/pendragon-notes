@@ -1,12 +1,6 @@
 ---
 House: House Dolforwyn
 Birth: "440"
-tewst: 
----
----
-House: House Dolforwyn
-Birth: "440"
-tewst:
 ---
 > [!infobox]+
 > ![[Bran ap Cynric.png|cover]]
