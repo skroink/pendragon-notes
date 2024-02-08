@@ -11,6 +11,7 @@ Birth: "447"
 > |Status| Deceased|
 > |Birth| [447](447)  |
 > |Death|[[456|456]] <small>(Age 9)</small>|
+> 
 > || Relations  |
 | ---  | ---    |
 > | Father   | [[Cynric ap Gwilym †|Cynric ap Gwilym †]]  |
