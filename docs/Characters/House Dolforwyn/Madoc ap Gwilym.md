@@ -2,6 +2,7 @@
 cssclasses:
   - t-c,
   - no-m
+House: House Dolforwyn
 ---
 > [!infobox]+
 > ![[Madoc ap Gwilym.png|cover]]
