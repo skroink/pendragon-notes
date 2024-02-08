@@ -1,0 +1,161 @@
+/*Infobox*/
+ details.infobox {
+	 --callout-color: var(--note, var(--background-primary));
+	 --callout-padding: 0;
+	 --callout-content-padding: 5px;
+	 --callout-margin: 0 0 0 5px;
+	 background: var(--note, var(--background-primary));
+	 --h1-border-line-height: 0;
+	 --h2-border-line-height: 0;
+	 --h3-border-line-height: 0;
+	 --h4-border-line-height: 0;
+	 --h5-border-line-height: 0;
+	 --h6-border-line-height: 0;
+	 border: 0;
+	 box-shadow: none;
+	 width: auto;
+	 max-width: 300px;
+	 float: right;
+	 border-radius: var(--radius-s);
+}
+ details.infobox > .callout-title {
+	 justify-content: center;
+	 align-items: center;
+	 align-self: center;
+}
+ details.infobox > .callout-title > .callout-icon {
+	 align-self: center;
+}
+ details.infobox:not(.is-collapsed) > .callout-title {
+	 padding: 0;
+}
+ details.infobox .callout-fold {
+	 padding-right: 0;
+}
+ details.infobox.is-collapsed .callout-fold {
+	 border: 1px solid var(--hr, var(--background-modifier-border));
+	 border-radius: var(--radius-m);
+}
+ details.infobox > .callout-title .callout-title-inner {
+	 display: none;
+}
+ details.infobox > .callout-title .callout-icon {
+	 height: 0;
+}
+ details.infobox self:not( [data-callout-metadata~="show-title"], [data-callout-metadata~="s-t"], [data-callout-metadata~="show-icon"], [data-callout-metadata~="s-i"]).callout-iconsvg {
+	 width: 0;
+	 height: 0;
+}
+ details.infobox:not(:hover):not(.is-collapsed) .callout-title {
+	 background-color: transparent;
+}
+ details.infobox self.callout-content > .callout:not(:hover):not(.is-collapsed) > .callout-title, details.infobox self:is([data-callout-metadata~="show-title"], [data-callout-metadata~="s-t"]):not(:hover):not(.is-collapsed) > .callout-title {
+	 display: flex;
+	 gap: 0;
+}
+ details.infobox self.callout-content > .callout.is-collapsed .callout-title, details.infobox self:is([data-callout-metadata~="show-title"], [data-callout-metadata~="s-t"]).is-collapsed .callout-title {
+	 border: 1px solid var(--hr, var(--background-modifier-border));
+	 display: flex;
+	 align-items: center;
+	 align-content: center;
+}
+ details.infobox self.callout-content > .callout .callout-title .callout-title-inner, details.infobox self:is([data-callout-metadata~="show-title"], [data-callout-metadata~="s-t"]) .callout-title .callout-title-inner {
+	 display: unset;
+	 align-items: center;
+	 align-content: center;
+	 padding: 5px 10px;
+}
+ details.infobox self.callout-content > .callout .callout-fold, details.infobox self:is([data-callout-metadata~="show-title"], [data-callout-metadata~="s-t"]) .callout-fold {
+	 margin-top: auto;
+	 margin-bottom: auto;
+}
+ details.infobox self.callout-content > .callout.is-collapsed .callout-fold, details.infobox self:is([data-callout-metadata~="show-title"], [data-callout-metadata~="s-t"]).is-collapsed .callout-fold {
+	 border: 0;
+}
+ details.infobox > .callout-content {
+	 border: 1px solid var(--table, var(--background-modifier-border));
+	 margin: 0;
+	 border-radius: var(--radius-s);
+}
+ details.infobox table {
+	 width: 100%;
+}
+ details.infobox table td {
+	 white-space: pre-wrap;
+	 word-wrap: normal;
+	 word-break: normal;
+}
+ details.infobox self:is(p, table) {
+	 margin-block-start: 0;
+	 margin-block-end: 0;
+	 margin: 0;
+}
+ details.infobox self.callout-content > :is(h1, h2, h3, h4, h5, h6) {
+	 font-size: 20px;
+	 text-align: center;
+	 margin: 0;
+	 padding: 2px;
+	 color: var(--text-normal);
+	 background: var(--outer-bar, var(--background-secondary));
+}
+ details.infobox .internal-embed, details.infobox img {
+	 display: block;
+	 margin: auto;
+	 padding: auto;
+	 text-align: center;
+}
+ details.infobox[data-callout-metadata][data-callout-metadata][data-callout-metadata~="left"] {
+	 --callout-margin: 0 5px 0 0;
+}
+ details.infobox .callout-content > .callout {
+	 max-width: unset;
+	 float: unset;
+	 --callout-margin: 5px 0 0 0;
+}
+ details.infobox .callout-content > .callout > .callout-title {
+	 color: var(--text-normal);
+	 background: var(--outer-bar, var(--background-secondary));
+	 border: 1px solid var(--table, var(--background-modifier-border));
+	 border-bottom: none;
+}
+ details.infobox .callout-content > .callout > .callout-content {
+	 border-top: none;
+}
+ details.infobox[data-callout-metadata~="wikipedia"] table {
+	 --table-header-color: var(--text, var(--text-normal));
+	 --table-header-background: transparent;
+	 --table-header-background-hover: var(--td, var(--table-background));
+	 --table-row-background-hover: var(--td, var(--table-background));
+	 --table-row-alt-background: transparent;
+	 --table-column-alt-background: transparent;
+	 --table-border-color: transparent;
+	 --table-header-border-color: transparent;
+}
+ details.infobox[data-callout-metadata~="wikipedia"] table tr:last-child {
+	 margin-bottom: 2px;
+}
+ @media print {
+	 .callout {
+		 max-width: 400px;
+	}
+}
+ .theme-light .callout[data-callout-metadata~="wikipedia"] {
+	 --th-text: var(--th);
+}
+ .illusion.illusion .callout.is-collapsed.is-collapsed[data-callout-metadata~=left] {
+	 margin-left: -30px;
+}
+ .illusion.illusion .callout.is-collapsed.is-collapsed[data-callout-metadata~=right] {
+	 margin-right: -30px;
+}
+ .illusion.illusion .callout [data-heading] {
+	 --illusion-box-shadow: none;
+	 --header-shadow: var(--illusion-box-shadow);
+	 --h1-shadow: var(--header-shadow);
+	 --h2-shadow: var(--header-shadow);
+	 --h3-shadow: var(--header-shadow);
+	 --h4-shadow: var(--header-shadow);
+	 --h5-shadow: var(--header-shadow);
+	 --h6-shadow: var(--header-shadow);
+}
+ 
