@@ -2,7 +2,7 @@
 House: House Dolforwyn
 Father: Gwilym
 Birth: "420"
-Death: 
+Death: "479"
 Marriage:
   - "[[Branwen of Boudica|Branwen of Boudica]]"
 Children:
@@ -24,9 +24,9 @@ Children:
 > 
 > || Status |
 > |--|--|
-> |Status| Alive|
+> |Status| Deceased|
 > | Birth | [420](420) |
-> | Death |  <small>(Age -420)</small> |
+> | Death | [479](479) <small>(Age 59)</small> |
 >
 > || Relations   |
 > | ---- | ---- |

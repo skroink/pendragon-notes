@@ -4,20 +4,28 @@ cssclasses:
   - no-m
 House: House Dolforwyn
 Birth: "465"
+Children: 
+Father: "[[Gwilym ap Cynric]]"
+Mother: "[[Eilwen ferch Ealdred]]"
+Siblings:
+  - "[[Geraint ap Gwilym|Geraint ap Gwilym]]"
+  - "[[Maelona ferch Eilwen|Maelona ferch Eilwen]]"
 ---
 > [!infobox]+
 > ![[Madoc ap Gwilym.png|cover]]
 >
-> || Status   |
+>
+|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
 > |Birth| [465](465) <small>(Age 20)</small> |
 >
-> || Relations   |
+|| Relations   |
 > | ---- | ---- |
-> | Father |[[Gwilym ap Cynric|Gwilym ap Cynric]] |
-> | Mother | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] |
-> | Spouse | |
-> | Children||
-> | Siblings |<small>[[Geraint ap Gwilym|Geraint ap Gwilym]] (Older brother), [[Maelona ferch Eilwen|Maelona ferch Eilwen]] (Older sister) </small> |
+> | Father | [[Characters/House Dolforwyn/Gwilym ap Cynric.md|Gwilym ap Cynric]] |
+> | Mother | [[Characters/House Llyrith/Eilwen ferch Ealdred.md|Eilwen ferch Ealdred]] |
+> | Spouse |  |
+> | Children|  |
+> | Siblings | [Geraint ap Gwilym](Characters/House Dolforwyn/Geraint ap Gwilym.md), [Maelona ferch Eilwen](Characters/House Dolforwyn/Maelona ferch Eilwen.md)|
+> 
 

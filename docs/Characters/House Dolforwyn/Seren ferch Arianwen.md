@@ -35,5 +35,5 @@ Marriage:
 > | Mother | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
 > | Spouse |  |
 > | Children|  |
-> | Siblings ||
+> | Siblings | [Emrys ap Bran](Characters/House Dolforwyn/Emrys ap Bran.md)|
 > 
