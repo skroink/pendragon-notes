@@ -2,7 +2,7 @@
 > 
 > ![[Lord Cynric.png|cover]]
 >
-> || Lord of Dolforwyn   |
+> | Lord of Dolforwyn   |
 > | ---- | ---- |
 > |Reign | [[445|445]] - [[479|479]] |
 >|Predecessor | Gwilym |
@@ -14,7 +14,7 @@
 > | Birth | [[420|420]] |
 > | Death | [[479|479]] <small>(Age 59)</small> |
 >
-> || Relations   |
+> | Relations   |
 > | ---- | ---- |
 > | Father | Gwilym |
 > | Mother |  |
