@@ -1,10 +1,16 @@
 ---
 House: House Dolforwyn
+Birth: "460"
 ---
 
 > [!infobox]+
 > ![[Geraint ap Gwilym.png|cover]]
-> ##### Geraint ap Gwilym
+>
+> || Status   |
+> | ---- | ---- |
+> |Status| Alive|
+> |Birth| [460](460) <small>(Age 25)</small> |
+>
 > || Relations   |
 > | ---- | ---- |
 > | Father | [[Gwilym ap Cynric|Gwilym ap Cynric]] |
