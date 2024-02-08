@@ -1,6 +1,7 @@
 ---
 House: House Dolforwyn
 Birth: "442"
+Gender: Male
 ---
 
 > [!infobox]+
