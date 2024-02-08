@@ -3,10 +3,16 @@ cssclasses:
   - t-c,
   - no-m
 House: House Dolforwyn
+Birth: "465"
 ---
 > [!infobox]+
 > ![[Madoc ap Gwilym.png|cover]]
-> ##### Madoc ap Gwilym
+>
+> || Status   |
+> | ---- | ---- |
+> |Status| Alive|
+> |Birth| [465](465) <small>(Age 20)</small> |
+>
 > || Relations   |
 > | ---- | ---- |
 > | Father |[[Gwilym ap Cynric|Gwilym ap Cynric]] |
