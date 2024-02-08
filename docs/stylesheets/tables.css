@@ -1,0 +1,7 @@
+.infoxbox .md-typeset__table {
+   width:100%;
+}
+
+.infobox .md-typeset__table th:last-child {
+  width:100%;
+}
