@@ -2,7 +2,7 @@
 status: Alive
 ---
 > [!infobox]+
-> ## Lady Branwen "The Stalwart" of Dolforwyn
+> 
 > ![[Branwen of Boudica.png|cover]]
 > 
 > || Lady of Dolforwyn    |
