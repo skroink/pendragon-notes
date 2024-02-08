@@ -1,11 +1,7 @@
----
-aliases:
-  - Cynric ap Gwilym
-  - Sir Cynric ap Gwilym of Dolforwyn
-status: Deceased
----
 > [!infobox]+
+> 
 > #### Sir Cynric ap Gwilym of Dolforwyn
+> 
 > ![[Cynric ap Gwilym.png|cover]]
 > 
 > || Lord of Dolforwyn   |
