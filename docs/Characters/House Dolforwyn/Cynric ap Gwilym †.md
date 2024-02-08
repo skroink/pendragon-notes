@@ -8,13 +8,13 @@
 >|Predecessor | Gwilym |
 >|Heir| [[Bran ap Cynric|Bran ap Cynric]]|
 > 
-> | Status |
+> || Status |
 > |--|--|
 > | Status | Deceased |
 > | Birth | [[420|420]] |
 > | Death | [[479|479]] <small>(Age 59)</small> |
 >
-> | Relations   |
+> || Relations   |
 > | ---- | ---- |
 > | Father | Gwilym |
 > | Mother |  |
