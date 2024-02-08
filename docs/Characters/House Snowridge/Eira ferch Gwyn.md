@@ -1,3 +1,6 @@
+---
+House: House Snowridge
+---
 > [!infobox]+
 > ![[Eira ferch Gwyn.png|cover]]
 > 
