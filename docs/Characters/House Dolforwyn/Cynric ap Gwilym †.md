@@ -1,8 +1,5 @@
 > [!infobox]+
 > 
-> #### Sir Cynric ap Gwilym of Dolforwyn
-> 
-> ![[Cynric ap Gwilym.png|cover]]
 > 
 > || Lord of Dolforwyn   |
 > | ---- | ---- |
