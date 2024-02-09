@@ -10,12 +10,12 @@ Birth: "481"
 > # Gwenhwyfar ferch Eira
 > ![[Gwenhwyfar ferch Eira.png|cover]]
 >
-|| Status   |
+>|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
 > |Birth| [481](481) <small>(Age 4)</small> |
 >
-|| Relations   |
+>|| Relations   |
 > | ---- | ---- |
 > | Father | [[Characters/House Dolforwyn/Emrys ap Bran.md|Emrys ap Bran]] |
 > | Mother | [[Characters/House Snowridge/Eira ferch Gwyn.md|Eira ferch Gwyn]] |
