@@ -38,5 +38,4 @@ Marriage:
 
 
 [440](440)
-[[Characters/House Dolforwyn/Bran ap Cynric.md
-[Bran ap Cynric](Characters/House Dolforwyn/Bran ap Cynric.md)
+[Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) 
