@@ -1,3 +1,3 @@
 | Name                                                        | Owner                                                            |
 | ----------------------------------------------------------- | ---------------------------------------------------------------- |
-| [[./Castle Dolforwyn\|Castle Dolforwyn]] | [[../../Characters/House Dolforwyn/Bran ap Cynric\|Bran ap Cynric]] |
+| [[Locations/Castles/Castle Dolforwyn.md\|Castle Dolforwyn]] | [[Characters/House Dolforwyn/Bran ap Cynric.md\|Bran ap Cynric]] |
