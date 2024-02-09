@@ -7,7 +7,7 @@ Gender: Male
 > [!infobox]+
 > 
 >  
-> ![[../../images/Gwilym ap Cynric.png|cover]]
+> ![[Gwilym ap Cynric.png|cover]]
 >
 > || Status   |
 > | ---- | ---- |
@@ -16,16 +16,16 @@ Gender: Male
 >
 > || Relations   |
 > | ---- | ---- |
-> | Father |  [[./Cynric ap Gwilym †|Cynric ap Gwilym †]] |
-> | Mother | [[./Branwen of Boudica|Branwen of Boudica]] |
-> | Spouse | [[../House Llyrith/Eilwen ferch Ealdred|Eilwen ferch Ealdred]] <small>([[457|457]])</small> |
-> | Children| [[./Geraint ap Gwilym|Geraint ap Gwilym]], [[./Maelona ferch Eilwen|Maelona ferch Eilwen]], [[./Madoc ap Gwilym|Madoc ap Gwilym]] |
-> | Siblings | [[./Elowen ferch Branwen †|Elowen ferch Branwen †]] (older sister), [[./Bran ap Cynric|Bran ap Cynric]] (older brother) |
+> | Father |  [[Cynric ap Gwilym †|Cynric ap Gwilym †]] |
+> | Mother | [[Branwen of Boudica|Branwen of Boudica]] |
+> | Spouse | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] <small>([[457|457]])</small> |
+> | Children| [[Geraint ap Gwilym|Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
+> | Siblings | [[Elowen ferch Branwen †|Elowen ferch Branwen †]] (older sister), [[Bran ap Cynric|Bran ap Cynric]] (older brother) |
 
 
 ## Early Life
 
-Gwilym ap Cynric, the youngest son of the esteemed House Dolforwyn, was born in the year [[442|442]] amidst the grandeur of Dolforwyn Castle. Growing up in the shadow of his elder brother [[./Bran ap Cynric|Bran]], Gwilym embraced the freedom that came with being the family's youngest scion.
+Gwilym ap Cynric, the youngest son of the esteemed House Dolforwyn, was born in the year [[442|442]] amidst the grandeur of Dolforwyn Castle. Growing up in the shadow of his elder brother [[Bran ap Cynric|Bran]], Gwilym embraced the freedom that came with being the family's youngest scion.
 
 ## Education and Knighthood
 
