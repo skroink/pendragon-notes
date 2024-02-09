@@ -23,7 +23,7 @@ Marriage:
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth|  <small>(Age NaN)</small> |
+> |Birth| [440](Events And Dates/440.md) <small>(Age 45)</small> |
 >
 >|| Relations   |
 > | ---- | ---- |
@@ -34,7 +34,10 @@ Marriage:
 > | Siblings | [Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) (Younger Brother), [Elowen ferch Branwen †](Characters/House Dolforwyn/Elowen ferch Branwen †.md) (Younger Sister), [TestCharacter](Characters/House Dolforwyn/TestCharacter.md) (Younger Sister)|
 > 
 
+485
+440
 
+45
 
 [440](Events And Dates/440.md)
 [440](440)
