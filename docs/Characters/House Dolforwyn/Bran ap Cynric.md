@@ -30,7 +30,11 @@ Marriage:
 > | Mother | [[Characters/House Dolforwyn/Branwen of Boudica.md|Branwen of Boudica]] |
 > | Spouse | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
 > | Children|  |
-> | Siblings | [Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) (Younger Brother), [Elowen ferch Branwen †](Characters/House Dolforwyn/Elowen ferch Branwen †.md) (Younger Sister)|
+> | Siblings | [object Object] (Younger Brother), [object Object] (Younger Sister)|
 > 
 
 
+
+[Gwilym ap Cynric](Gwilym ap Cynric)
+
+[Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md)
