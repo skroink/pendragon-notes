@@ -14,12 +14,12 @@ Siblings:
 > [!infobox]+
 > ![[Madoc ap Gwilym.png|cover]]
 >
-|| Status   |
+>|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
 > |Birth| [465](465) <small>(Age 20)</small> |
 >
-|| Relations   |
+>|| Relations   |
 > | ---- | ---- |
 > | Father | [[Characters/House Dolforwyn/Gwilym ap Cynric.md|Gwilym ap Cynric]] |
 > | Mother | [[Characters/House Llyrith/Eilwen ferch Ealdred.md|Eilwen ferch Ealdred]] |
