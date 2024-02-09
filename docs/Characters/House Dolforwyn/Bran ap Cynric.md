@@ -35,6 +35,4 @@ Marriage:
 
 
 
-[Gwilym ap Cynric](Gwilym ap Cynric)
-
-[Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md)
+[test](Characters/House Dolforwyn/Gwilym ap Cynric.md)
