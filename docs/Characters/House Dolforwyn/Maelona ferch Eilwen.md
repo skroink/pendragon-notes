@@ -4,7 +4,7 @@ Birth: "463"
 ---
 
 > [!infobox]+
-> ![[Maelona ferch Eilwen.png|cover]]
+> ![cover](Maelona%20ferch%20Eilwen.png)
 >
 > || Status   |
 > | ---- | ---- |
@@ -14,9 +14,9 @@ Birth: "463"
 > || Overview   |
 > | ---- | ---- |
 > || Relations   |
-> | Father | [[Gwilym ap Cynric|Gwilym ap Cynric]] |
-> | Mother | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] |
+> | Father | [Gwilym ap Cynric](Gwilym%20ap%20Cynric.md) |
+> | Mother | [Eilwen ferch Ealdred](Eilwen%20ferch%20Ealdred.md) |
 > | Spouse |  |
 > | Children| |
-> | Siblings | <small>[[Geraint ap Gwilym|Geraint ap Gwilym]] (Older brother), [[Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small> |
+> | Siblings | <small>[Geraint ap Gwilym](Geraint%20ap%20Gwilym.md) (Older brother), [Madoc ap Gwilym](Madoc%20ap%20Gwilym.md) (Younger brother)</small> |
 
