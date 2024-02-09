@@ -10,12 +10,12 @@ Birth: "478"
 > # Llywelyn ap Emrys
 > ![[Llywelyn ap Emrys.png|cover]]
 >
-|| Status   |
+>|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
 > |Birth| [478](478) <small>(Age 7)</small> |
 >
-|| Relations   |
+>|| Relations   |
 > | ---- | ---- |
 > | Father | [[Characters/House Dolforwyn/Emrys ap Bran.md|Emrys ap Bran]] |
 > | Mother | [[Characters/House Snowridge/Eira ferch Gwyn.md|Eira ferch Gwyn]] |
