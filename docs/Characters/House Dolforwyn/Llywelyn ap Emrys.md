@@ -13,7 +13,7 @@ Birth: "478"
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [478](478) <small>(Age 7)</small> |
+> |Birth| [478](478) <small>(Age NaN)</small> |
 >
 >|| Relations   |
 > | ---- | ---- |

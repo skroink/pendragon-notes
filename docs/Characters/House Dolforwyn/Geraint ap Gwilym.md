@@ -9,7 +9,7 @@ Birth: "460"
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [460](460) <small>(Age 25)</small> |
+> |Birth| [460](460) <small>(Age NaN)</small> |
 >
 > || Relations   |
 > | ---- | ---- |

@@ -17,7 +17,7 @@ Siblings:
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [465](465) <small>(Age 20)</small> |
+> |Birth| [465](465) <small>(Age NaN)</small> |
 >
 >|| Relations   |
 > | ---- | ---- |

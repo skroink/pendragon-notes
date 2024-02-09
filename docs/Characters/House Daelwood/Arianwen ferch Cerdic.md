@@ -18,7 +18,7 @@ Mother: Cerdic
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [439](439) <small>(Age 46)</small> |
+> |Birth| [439](439) <small>(Age NaN)</small> |
 >
 >|| Relations   |
 > | ---- | ---- |

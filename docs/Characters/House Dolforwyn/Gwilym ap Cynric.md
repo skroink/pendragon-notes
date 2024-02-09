@@ -12,7 +12,7 @@ Gender: Male
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [442](442) <small>(Age 43)</small> |
+> |Birth| [442](442) <small>(Age NaN)</small> |
 >
 > || Relations   |
 > | ---- | ---- |
