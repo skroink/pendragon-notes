@@ -1,1 +1,1 @@
-![[House of Dolforwyn.png|House of Dolforwyn.png]]
+![[../images/House of Dolforwyn.png|House of Dolforwyn.png]]

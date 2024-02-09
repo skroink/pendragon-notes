@@ -22,7 +22,7 @@ Marriage:
 ---
 
 > [!infobox]+
-> ![[Seren ferch Arianwen.png|cover]]
+> ![[../../images/Seren ferch Arianwen.png|cover]]
 >
 >|| Status   |
 > | ---- | ---- |
@@ -31,8 +31,8 @@ Marriage:
 >
 >|| Relations   |
 > | ---- | ---- |
-> | Father | [[Characters/House Dolforwyn/Bran ap Cynric.md|Bran ap Cynric]] |
-> | Mother | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
+> | Father | [[./Bran ap Cynric|Bran ap Cynric]] |
+> | Mother | [[../House Daelwood/Arianwen ferch Cerdic|Arianwen ferch Cerdic]] |
 > | Spouse |  |
 > | Children|  |
 > | Siblings | [Emrys ap Bran](Characters/House Dolforwyn/Emrys ap Bran.md)|

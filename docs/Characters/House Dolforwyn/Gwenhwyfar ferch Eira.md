@@ -17,8 +17,8 @@ Birth: "481"
 >
 >|| Relations   |
 > | ---- | ---- |
-> | Father | [[Characters/House Dolforwyn/Emrys ap Bran.md|Emrys ap Bran]] |
-> | Mother | [[Characters/House Snowridge/Eira ferch Gwyn.md|Eira ferch Gwyn]] |
+> | Father | [[./Emrys ap Bran|Emrys ap Bran]] |
+> | Mother | [[../House Snowridge/Eira ferch Gwyn|Eira ferch Gwyn]] |
 > | Spouse |  |
 > | Children|  |
 > | Siblings | [Llywelyn ap Emrys](Characters/House Dolforwyn/Llywelyn ap Emrys.md)|

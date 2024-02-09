@@ -9,11 +9,11 @@ Birth: "439"
 Mother: Cerdic
 ---
 > [!infobox]+
-> ![[Arianwen ferch Cerdic.png|cover]]
+> ![[../../images/Arianwen ferch Cerdic.png|cover]]
 > 
 > || Lady of Dolforwyn    |
 > | ---- | ---- |
-> |Tenure|[[479|479]]| 
+> |Tenure|[[../../Events And Dates/479|479]]| 
 >
 >|| Status   |
 > | ---- | ---- |
@@ -24,7 +24,7 @@ Mother: Cerdic
 > | ---- | ---- |
 > | Father |  |
 > | Mother | Cerdic |
-> | Spouse | [[Characters/House Dolforwyn/Bran ap Cynric.md|Bran ap Cynric]] |
+> | Spouse | [[../House Dolforwyn/Bran ap Cynric|Bran ap Cynric]] |
 > | Children| [Emrys ap Bran](Characters/House Dolforwyn/Emrys ap Bran.md), [Seren ferch Arianwen](Characters/House Dolforwyn/Seren ferch Arianwen.md) |
 > | Siblings | |
 > 
