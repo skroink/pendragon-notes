@@ -4,23 +4,23 @@ Father: Gwilym
 Birth: "420"
 Death: "479"
 Marriage:
-  - "[[./Branwen of Boudica|Branwen]]"
+  - "[[Branwen of Boudica|Branwen of Boudica]]"
 Children:
-  - "[[./Bran ap Cynric|Bran ap Cynric]]"
-  - "[[./Elowen ferch Branwen †|Elowen]]"
-  - "[[./Gwilym ap Cynric|Gwilym]]"
+  - "[[Bran ap Cynric|Bran ap Cynric]]"
+  - "[[Elowen ferch Branwen †|Elowen ferch Branwen †]]"
+  - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
 ---
 
 
 > [!infobox]+
 > 
-> ![[../../images/Lord Cynric.png|cover]]
+> ![[Lord Cynric.png|cover]]
 >
 > || Lord of Dolforwyn   |
 > | ---- | ---- |
-> |Reign | [[../../Events And Dates/445|445]] - [[../../Events And Dates/479|479]] |
+> |Reign | [[445|445]] - [[479|479]] |
 >|Predecessor | Gwilym |
->|Heir| [[./Bran ap Cynric|Bran ap Cynric]]|
+>|Heir| [[Bran ap Cynric|Bran ap Cynric]]|
 > 
 > || Status |
 > |--|--|
@@ -32,13 +32,13 @@ Children:
 > | ---- | ---- |
 > | Father | Gwilym |
 > | Mother |  |
-> | Spouse | [[./Branwen of Boudica|Branwen of Boudica]] |
+> | Spouse | [[Characters/House Dolforwyn/Branwen of Boudica.md|Branwen of Boudica]] |
 > | Children| [Bran ap Cynric](Characters/House Dolforwyn/Bran ap Cynric.md), [Elowen ferch Branwen †](Characters/House Dolforwyn/Elowen ferch Branwen †.md), [Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) |
 > | Siblings ||
 
 ## Early Life
 
-Cynric of Dolforwyn, born into the esteemed House of Dolforwyn, emerged into the world in the year [[../../Events And Dates/420|420]]. Raised amidst the grandeur of Dolforwyn Castle in the north path of Logres, Cynric's youth was steeped in the rich traditions and responsibilities befitting his noble birth.
+Cynric of Dolforwyn, born into the esteemed House of Dolforwyn, emerged into the world in the year [[420|420]]. Raised amidst the grandeur of Dolforwyn Castle in the north path of Logres, Cynric's youth was steeped in the rich traditions and responsibilities befitting his noble birth.
 
 ## Education and Knightly Traning
 
@@ -46,7 +46,7 @@ Under the guidance of the castle's seasoned knights and scholars, Cynric honed h
 
 ## Marriage and Alliance
 
-At the age of 20, Cynric entered into a strategic union with [[./Branwen of Boudica|Branwen]], a descendant of the legendary Queen Boudica, a union that would solidify the ties between the House of Dolforwyn and the legacy of Boudica. The marriage was not only a union of hearts but a pact that would shape the destiny of Dolforwyn Castle.
+At the age of 20, Cynric entered into a strategic union with [[Branwen of Boudica|Branwen]], a descendant of the legendary Queen Boudica, a union that would solidify the ties between the House of Dolforwyn and the legacy of Boudica. The marriage was not only a union of hearts but a pact that would shape the destiny of Dolforwyn Castle.
 
 ## Leadership and Challenges
 
@@ -58,8 +58,8 @@ As the Lord of Dolforwyn, Cynric solidified his legacy as a guardian of the nort
 
 ## Family and Offspring
 
-Cynric and Branwen's union bore three children: [[./Bran ap Cynric|Bran]], [[./Gwilym ap Cynric|Gwilym]], and [[./Elowen ferch Branwen †|Elowen]]. Each child, a testament to the enduring legacy of the House of Dolforwyn, was raised with the values of honor, duty, and loyalty. Bran, the eldest, inherited the mantle of leadership, while Gwilym carried forward the family name. Elowen, the only daughter, embodied the grace and strength inherited from both her noble houses.
+Cynric and Branwen's union bore three children: [[Bran ap Cynric|Bran]], [[Gwilym ap Cynric|Gwilym]], and [[Elowen ferch Branwen †|Elowen]]. Each child, a testament to the enduring legacy of the House of Dolforwyn, was raised with the values of honor, duty, and loyalty. Bran, the eldest, inherited the mantle of leadership, while Gwilym carried forward the family name. Elowen, the only daughter, embodied the grace and strength inherited from both her noble houses.
 
 ## Current Status
 
-In the year [[../../Events And Dates/479|479]], Sir Cynric of Dolforwyn passed away, leaving the responsibility of Dolforwyn Castle in the capable hands of his eldest son, Bran. Bran now stands as the Lord of Dolforwyn, presiding over the northern territories of Logres. His leadership continues to ensure the prosperity and influence of the House of Dolforwyn, a beacon of strength in the tumultuous world of knights and chivalry.
+In the year [[479|479]], Sir Cynric of Dolforwyn passed away, leaving the responsibility of Dolforwyn Castle in the capable hands of his eldest son, Bran. Bran now stands as the Lord of Dolforwyn, presiding over the northern territories of Logres. His leadership continues to ensure the prosperity and influence of the House of Dolforwyn, a beacon of strength in the tumultuous world of knights and chivalry.
