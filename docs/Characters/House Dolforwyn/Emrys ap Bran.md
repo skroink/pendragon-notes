@@ -9,7 +9,7 @@ Birth: "458"
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [458](458) <small>(Age 27)</small> |
+> |Birth| [458](458) <small>(Age NaN)</small> |
 >
 > || Relations   |
 > | ---- | ---- |
