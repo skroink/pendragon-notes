@@ -7,7 +7,7 @@ Gender: Male
 > [!infobox]+
 > 
 >  
-> ![cover](Gwilym%20ap%20Cynric.png)
+> ![[Gwilym ap Cynric.png|cover]]
 >
 > || Status   |
 > | ---- | ---- |
@@ -16,16 +16,16 @@ Gender: Male
 >
 > || Relations   |
 > | ---- | ---- |
-> | Father |  [Cynric ap Gwilym †](Cynric%20ap%20Gwilym%20%E2%80%A0.md) |
-> | Mother | [Branwen of Boudica](Branwen%20of%20Boudica.md) |
-> | Spouse | [Eilwen ferch Ealdred](Eilwen%20ferch%20Ealdred.md) <small>([457](457.md))</small> |
-> | Children| [Geraint ap Gwilym](Geraint%20ap%20Gwilym.md), [Maelona ferch Eilwen](Maelona%20ferch%20Eilwen.md), [Madoc ap Gwilym](Madoc%20ap%20Gwilym.md) |
-> | Siblings | [Elowen ferch Branwen †](Elowen%20ferch%20Branwen%20%E2%80%A0.md) (older sister), [Bran ap Cynric](Bran%20ap%20Cynric.md) (older brother) |
+> | Father |  [[Cynric ap Gwilym †|Cynric ap Gwilym †]] |
+> | Mother | [[Branwen of Boudica|Branwen of Boudica]] |
+> | Spouse | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] <small>([[457|457]])</small> |
+> | Children| [[Geraint ap Gwilym|Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
+> | Siblings | [[Elowen ferch Branwen †|Elowen ferch Branwen †]] (older sister), [[Bran ap Cynric|Bran ap Cynric]] (older brother) |
 
 
 ## Early Life
 
-Gwilym ap Cynric, the youngest son of the esteemed House Dolforwyn, was born in the year [442](442.md) amidst the grandeur of Dolforwyn Castle. Growing up in the shadow of his elder brother [Bran](Bran%20ap%20Cynric.md), Gwilym embraced the freedom that came with being the family's youngest scion.
+Gwilym ap Cynric, the youngest son of the esteemed House Dolforwyn, was born in the year [[442|442]] amidst the grandeur of Dolforwyn Castle. Growing up in the shadow of his elder brother [[Bran ap Cynric|Bran]], Gwilym embraced the freedom that came with being the family's youngest scion.
 
 ## Education and Knighthood
 
@@ -35,7 +35,7 @@ Despite being the youngest, Gwilym showed promise in the ways of knighthood. His
 
 ## Marriage to Eilwen ferch Ealdred
 
-In the year [457](457.md), Gwilym entered into a union with Eilwen ferch Ealdred of House Llyrith. The marriage not only strengthened diplomatic ties but also brought forth a harmonious blending of House Dolforwyn and House Llyrith. Eilwen's grace and wisdom complemented Gwilym's affability, creating a harmonious partnership.
+In the year [[457|457]], Gwilym entered into a union with Eilwen ferch Ealdred of House Llyrith. The marriage not only strengthened diplomatic ties but also brought forth a harmonious blending of House Dolforwyn and House Llyrith. Eilwen's grace and wisdom complemented Gwilym's affability, creating a harmonious partnership.
 
 ## Family
 

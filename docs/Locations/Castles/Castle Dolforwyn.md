@@ -4,9 +4,9 @@ tags:
 owner: "[[Bran ap Cynric]]"
 ---
 >[!infobox]
->Part of [Lindsey](Lindsey.md)
->![Castle Dolforwyn.png](Castle%20Dolforwyn.png)
+>Part of [[Lindsey|Lindsey]]
+>![[Castle Dolforwyn.png|Castle Dolforwyn.png]]
 >
 >||Information|
 >|--|--|
->|Owner| [Bran ap Cynric](Characters/House%20Dolforwyn/Bran%20ap%20Cynric.md.md) |
+>|Owner| [[Characters/House Dolforwyn/Bran ap Cynric.md|Bran ap Cynric]] |

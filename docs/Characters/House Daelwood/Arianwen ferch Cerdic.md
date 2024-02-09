@@ -1,19 +1,19 @@
 ---
 House: House Daelwood
 Marriage:
-  - "[Bran ap Cynric](Bran%20ap%20Cynric.md)"
+  - "[[Bran ap Cynric|Bran ap Cynric]]"
 Children:
-  - "[Emrys ap Bran](Emrys%20ap%20Bran.md)"
-  - "[Seren ferch Arianwen](Seren%20ferch%20Arianwen.md)"
+  - "[[Emrys ap Bran|Emrys ap Bran]]"
+  - "[[Seren ferch Arianwen|Seren ferch Arianwen]]"
 Birth: "439"
 Mother: Cerdic
 ---
 > [!infobox]+
-> ![cover](Arianwen%20ferch%20Cerdic.png)
+> ![[Arianwen ferch Cerdic.png|cover]]
 > 
 > || Lady of Dolforwyn    |
 > | ---- | ---- |
-> |Tenure|[479](479.md)| 
+> |Tenure|[[479|479]]| 
 >
 >|| Status   |
 > | ---- | ---- |
@@ -24,7 +24,7 @@ Mother: Cerdic
 > | ---- | ---- |
 > | Father |  |
 > | Mother | Cerdic |
-> | Spouse | [Bran ap Cynric](Characters/House%20Dolforwyn/Bran%20ap%20Cynric.md.md) |
+> | Spouse | [[Characters/House Dolforwyn/Bran ap Cynric.md|Bran ap Cynric]] |
 > | Children| [Emrys ap Bran](Characters/House Dolforwyn/Emrys ap Bran.md), [Seren ferch Arianwen](Characters/House Dolforwyn/Seren ferch Arianwen.md) |
 > | Siblings | |
 > 

@@ -2,22 +2,22 @@
 House: House Dolforwyn
 Birth: "440"
 Siblings:
-  - "[Gwilym ap Cynric](Gwilym%20ap%20Cynric.md)"
-  - "[Elowen ferch Branwen †](Elowen%20ferch%20Branwen%20%E2%80%A0.md)"
+  - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
+  - "[[Elowen ferch Branwen †|Elowen ferch Branwen †]]"
 Gender: Male
 Father: "[[Cynric ap Gwilym †]]"
 Mother: "[[Branwen of Boudica]]"
 Marriage:
-  - "[Arianwen ferch Cerdic](Arianwen%20ferch%20Cerdic.md)"
+  - "[[Arianwen ferch Cerdic|Arianwen ferch Cerdic]]"
 ---
 > [!infobox]+
-> ![cover](Bran%20ap%20Cynric.png)
+> ![[Bran ap Cynric.png|cover]]
 > 
 > || Lord of Dolforwyn   |
 > | ---- | ---- |
-> |Reign | [479](479.md) |
+> |Reign | [[479|479]] |
 >|Predecessor | [[Cynric ap Gwilym †]] |
->|Heir apparent| [Emrys ap Bran](Emrys%20ap%20Bran.md)|
+>|Heir apparent| [[Emrys ap Bran|Emrys ap Bran]]|
 >
 > || Status   |
 > | ---- | ---- |
@@ -26,9 +26,9 @@ Marriage:
 >
 >|| Relations   |
 > | ---- | ---- |
-> | Father | [Cynric ap Gwilym †](Characters/House%20Dolforwyn/Cynric%20ap%20Gwilym%20%E2%80%A0.md.md) |
-> | Mother | [Branwen of Boudica](Characters/House%20Dolforwyn/Branwen%20of%20Boudica.md.md) |
-> | Spouse | [Arianwen ferch Cerdic](Characters/House%20Daelwood/Arianwen%20ferch%20Cerdic.md.md) |
+> | Father | [[Characters/House Dolforwyn/Cynric ap Gwilym †.md|Cynric ap Gwilym †]] |
+> | Mother | [[Characters/House Dolforwyn/Branwen of Boudica.md|Branwen of Boudica]] |
+> | Spouse | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
 > | Children|  |
 > | Siblings | [object Object] (Younger Brother), [object Object] (Younger Sister)|
 > 
