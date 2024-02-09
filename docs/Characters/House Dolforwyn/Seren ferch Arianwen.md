@@ -24,12 +24,12 @@ Marriage:
 > [!infobox]+
 > ![[Seren ferch Arianwen.png|cover]]
 >
-|| Status   |
+>|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
 > |Birth| [462](462) <small>(Age 23)</small> |
 >
-|| Relations   |
+>|| Relations   |
 > | ---- | ---- |
 > | Father | [[Characters/House Dolforwyn/Bran ap Cynric.md|Bran ap Cynric]] |
 > | Mother | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
