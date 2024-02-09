@@ -1,3 +1,3 @@
 | name                                                                          |
 | ----------------------------------------------------------------------------- |
-| [[./Arianwen ferch Cerdic\|Arianwen ferch Cerdic]] |
+| [[Characters/House Daelwood/Arianwen ferch Cerdic.md\|Arianwen ferch Cerdic]] |
