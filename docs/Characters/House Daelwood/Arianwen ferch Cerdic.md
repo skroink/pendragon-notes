@@ -13,15 +13,14 @@ Mother: Cerdic
 > 
 > || Lady of Dolforwyn    |
 > | ---- | ---- |
-> |Tenure|[[479|479]]|
-> 
+> |Tenure|[[479|479]]| 
 >
-|| Status   |
+>|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
 > |Birth| [439](439) <small>(Age 46)</small> |
 >
-|| Relations   |
+>|| Relations   |
 > | ---- | ---- |
 > | Father |  |
 > | Mother | Cerdic |
