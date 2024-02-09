@@ -3,13 +3,13 @@ House: House Llyrith
 ---
 
 > [!infobox]+
-> ![[Eilwen ferch Ealdred.png|cover]]
+> ![[../../images/Eilwen ferch Ealdred.png|cover]]
 > 
 > || Relations   |
 > | ---- | ---- |
 > | Father ||
 > | Mother | Ealdred |
-> | Spouse | [[Gwilym ap Cynric|Gwilym ap Cynric]] |
-> | Children| [[Geraint ap Gwilym|Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
+> | Spouse | [[../House Dolforwyn/Gwilym ap Cynric|Gwilym ap Cynric]] |
+> | Children| [[../House Dolforwyn/Geraint ap Gwilym|Geraint ap Gwilym]], [[../House Dolforwyn/Maelona ferch Eilwen|Maelona ferch Eilwen]], [[../House Dolforwyn/Madoc ap Gwilym|Madoc ap Gwilym]] |
 > | Siblings ||
 
