@@ -1,1 +1,1 @@
-![[./Characters/index|index]]
+![[Characters/index|index]]
