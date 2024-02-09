@@ -4,7 +4,7 @@ Birth: "462"
 Father: "[[Bran ap Cynric]]"
 Mother: "[[Arianwen ferch Cerdic]]"
 Siblings:
-  - "[[Emrys ap Bran|Emrys ap Bran]]"
+  - "[Emrys ap Bran](Emrys%20ap%20Bran.md)"
 Gender: Female
 Death: 
 Marriage: 
@@ -15,14 +15,14 @@ Birth: "462"
 Father: "[[Bran ap Cynric]]"
 Mother: "[[Arianwen ferch Cerdic]]"
 Siblings:
-  - "[[Emrys ap Bran|Emrys ap Bran]]"
+  - "[Emrys ap Bran](Emrys%20ap%20Bran.md)"
 Gender: Female
 Death: 
 Marriage:
 ---
 
 > [!infobox]+
-> ![[Seren ferch Arianwen.png|cover]]
+> ![cover](Seren%20ferch%20Arianwen.png)
 >
 >|| Status   |
 > | ---- | ---- |
@@ -31,8 +31,8 @@ Marriage:
 >
 >|| Relations   |
 > | ---- | ---- |
-> | Father | [[Characters/House Dolforwyn/Bran ap Cynric.md|Bran ap Cynric]] |
-> | Mother | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
+> | Father | [Bran ap Cynric](Characters/House%20Dolforwyn/Bran%20ap%20Cynric.md.md) |
+> | Mother | [Arianwen ferch Cerdic](Characters/House%20Daelwood/Arianwen%20ferch%20Cerdic.md.md) |
 > | Spouse |  |
 > | Children|  |
 > | Siblings | [Emrys ap Bran](Characters/House Dolforwyn/Emrys ap Bran.md)|
