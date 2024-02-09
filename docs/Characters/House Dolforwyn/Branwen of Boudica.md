@@ -5,11 +5,11 @@ Birth: "422"
 
 > [!infobox]+
 > 
-> ![cover](Branwen%20of%20Boudica.png)
+> ![[Branwen of Boudica.png|cover]]
 > 
 > || Lady of Dolforwyn    |
 > | ---- | ---- |
-> |Tenure|[445](445.md) - [479](479.md)|
+> |Tenure|[[445|445]] - [[479|479]]|
 > 
 > || Status   |
 > | ---- | ---- |
@@ -18,16 +18,16 @@ Birth: "422"
 >
 > || Relations   |
 > | ---- | ---- |
-> | Spouse | [Cynric ap Gwilym †](Cynric%20ap%20Gwilym%20%E2%80%A0.md) <small>([440](440.md))</small> |
-> | Children| [Bran ap Cynric](Bran%20ap%20Cynric.md), [Elowen ferch Branwen †](Elowen%20ferch%20Branwen%20%E2%80%A0.md), [Gwilym ap Cynric](Gwilym%20ap%20Cynric.md) |
+> | Spouse | [[Cynric ap Gwilym †|Cynric ap Gwilym †]] <small>([[440|440]])</small> |
+> | Children| [[Bran ap Cynric|Bran ap Cynric]], [[Elowen ferch Branwen †|Elowen ferch Branwen †]], [[Gwilym ap Cynric|Gwilym ap Cynric]] |
 
 ## Early Life
 
-Branwen of Boudica, affectionately known as "The Stalwart," was born in the year [422](422.md), the 15th great-granddaughter of the legendary Queen Boudica. Raised in the heart of Lindsey in Logres, Branwen spent her formative years surrounded by the lush landscapes and rolling hills of the region where Dolforwyn Castle stood proudly in the north path of Logres.
+Branwen of Boudica, affectionately known as "The Stalwart," was born in the year [[422|422]], the 15th great-granddaughter of the legendary Queen Boudica. Raised in the heart of Lindsey in Logres, Branwen spent her formative years surrounded by the lush landscapes and rolling hills of the region where Dolforwyn Castle stood proudly in the north path of Logres.
 
 ## Marriage and Family
 
-At the tender age of 15, Branwen entered into a strategic union with [Cynric ap Gwilym](Cynric%20ap%20Gwilym%20%E2%80%A0.md), scion of the prestigious House of Dolforwyn, owners of Dolforwyn Castle in Lindsey. She bore her first child, Bran, at the age of 18.
+At the tender age of 15, Branwen entered into a strategic union with [[Cynric ap Gwilym †|Cynric ap Gwilym]], scion of the prestigious House of Dolforwyn, owners of Dolforwyn Castle in Lindsey. She bore her first child, Bran, at the age of 18.
 
 ## Legacy of Strength
 
