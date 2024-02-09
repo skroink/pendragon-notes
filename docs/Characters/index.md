@@ -1,3 +1,3 @@
-[[Characters/index|Characters]]
-[[Locations/Castles/index|Locations]]
-[[Events And Dates/index|Events]]
+[Characters](Characters/index.md)
+[Locations](Locations/Castles/index.md)
+[Events](Events%20And%20Dates/index.md)
