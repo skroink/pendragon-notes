@@ -35,7 +35,7 @@ Marriage:
 
 
 
-[test](Characters/House Dolforwyn/Gwilym ap Cynric.md)
 
 
-[Bran ap Cynric](Characters/House Dolforwyn/Bran ap Cynric)
+
+[Bran ap Cynric](Characters/House Dolforwyn/Bran ap Cynric.md)
