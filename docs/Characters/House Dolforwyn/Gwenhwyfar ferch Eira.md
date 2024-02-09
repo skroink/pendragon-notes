@@ -3,12 +3,12 @@ House: House Dolforwyn
 Father: "[[Emrys ap Bran]]"
 Mother: "[[Eira ferch Gwyn]]"
 Siblings:
-  - "[Llywelyn ap Emrys](Llywelyn%20ap%20Emrys.md)"
+  - "[[Llywelyn ap Emrys|Llywelyn ap Emrys]]"
 Birth: "481"
 ---
 > [!infobox]+
 > # Gwenhwyfar ferch Eira
-> ![cover](Gwenhwyfar%20ferch%20Eira.png)
+> ![[Gwenhwyfar ferch Eira.png|cover]]
 >
 >|| Status   |
 > | ---- | ---- |
@@ -17,8 +17,8 @@ Birth: "481"
 >
 >|| Relations   |
 > | ---- | ---- |
-> | Father | [Emrys ap Bran](Characters/House%20Dolforwyn/Emrys%20ap%20Bran.md.md) |
-> | Mother | [Eira ferch Gwyn](Characters/House%20Snowridge/Eira%20ferch%20Gwyn.md.md) |
+> | Father | [[Characters/House Dolforwyn/Emrys ap Bran.md|Emrys ap Bran]] |
+> | Mother | [[Characters/House Snowridge/Eira ferch Gwyn.md|Eira ferch Gwyn]] |
 > | Spouse |  |
 > | Children|  |
 > | Siblings | [Llywelyn ap Emrys](Characters/House Dolforwyn/Llywelyn ap Emrys.md)|
