@@ -4,7 +4,7 @@ Birth: "458"
 ---
 
 > [!infobox]+
-> ![[Emrys ap Bran.png|cover]]
+> ![cover](Emrys%20ap%20Bran.png)
 >
 > || Status   |
 > | ---- | ---- |
@@ -13,9 +13,9 @@ Birth: "458"
 >
 > || Relations   |
 > | ---- | ---- |
-> | Father | [[Bran ap Cynric|Bran ap Cynric]] |
-> | Mother | [[Arianwen ferch Cerdic|Arianwen ferch Cerdic]] |
-> | Spouse | [[Eira ferch Gwyn|Eira ferch Gwyn]] |
-> | Children| [[Llywelyn ap Emrys|Llywelyn ap Emrys]], [[Gwenhwyfar ferch Eira|Gwenhwyfar ferch Eira]] |
-> | Siblings |<small> [[Seren ferch Arianwen|Seren ferch Arianwen]] (Sister) </small>|
+> | Father | [Bran ap Cynric](Bran%20ap%20Cynric.md) |
+> | Mother | [Arianwen ferch Cerdic](Arianwen%20ferch%20Cerdic.md) |
+> | Spouse | [Eira ferch Gwyn](Eira%20ferch%20Gwyn.md) |
+> | Children| [Llywelyn ap Emrys](Llywelyn%20ap%20Emrys.md), [Gwenhwyfar ferch Eira](Gwenhwyfar%20ferch%20Eira.md) |
+> | Siblings |<small> [Seren ferch Arianwen](Seren%20ferch%20Arianwen.md) (Sister) </small>|
 
