@@ -9,7 +9,7 @@ Birth: "463"
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [463](463) <small>(Age 22)</small> |
+> |Birth| [463](463) <small>(Age NaN)</small> |
 >
 > || Overview   |
 > | ---- | ---- |
