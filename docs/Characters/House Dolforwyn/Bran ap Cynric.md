@@ -39,6 +39,6 @@ Marriage:
 
 [440](440)
 [440](440)
-[Arianwen ferch Cerdic](Characters/House Daelwood/Arianwen ferch Cerdic) 
+[Arianwen ferch Cerdic](Arianwen ferch Cerdic) 
 
 [Gwilym ap Cynric](Gwilym ap Cynric)
