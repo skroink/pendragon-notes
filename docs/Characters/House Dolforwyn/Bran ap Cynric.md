@@ -38,4 +38,4 @@ Marriage:
 
 
 [440](440)
-[Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) 
+[Arianwen ferch Cerdic](Arianwen ferch Cerdic) 
