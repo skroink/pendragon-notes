@@ -12,3 +12,4 @@
 | [[Characters/House Dolforwyn/Maelona ferch Eilwen.md\|Maelona ferch Eilwen]]     |
 | [[Characters/House Dolforwyn/Madoc ap Gwilym.md\|Madoc ap Gwilym]]               |
 | [[Characters/House Dolforwyn/Seren ferch Arianwen.md\|Seren ferch Arianwen]]     |
+| [[Characters/House Dolforwyn/TestCharacter.md\|TestCharacter]]                   |
