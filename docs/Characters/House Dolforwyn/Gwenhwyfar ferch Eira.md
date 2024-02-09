@@ -13,7 +13,7 @@ Birth: "481"
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [481](481) <small>(Age 4)</small> |
+> |Birth| [481](481) <small>(Age NaN)</small> |
 >
 >|| Relations   |
 > | ---- | ---- |
