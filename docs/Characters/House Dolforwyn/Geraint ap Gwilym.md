@@ -4,7 +4,7 @@ Birth: "460"
 ---
 
 > [!infobox]+
-> ![[Geraint ap Gwilym.png|cover]]
+> ![[../../images/Geraint ap Gwilym.png|cover]]
 >
 > || Status   |
 > | ---- | ---- |
@@ -13,9 +13,9 @@ Birth: "460"
 >
 > || Relations   |
 > | ---- | ---- |
-> | Father | [[Gwilym ap Cynric|Gwilym ap Cynric]] |
-> | Mother | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] |
+> | Father | [[./Gwilym ap Cynric|Gwilym ap Cynric]] |
+> | Mother | [[../House Llyrith/Eilwen ferch Ealdred|Eilwen ferch Ealdred]] |
 > | Spouse | |
 > | Children||
-> | Siblings |<small>[[Maelona ferch Eilwen|Maelona ferch Eilwen]] (Younger sister), [[Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small>|
+> | Siblings |<small>[[./Maelona ferch Eilwen|Maelona ferch Eilwen]] (Younger sister), [[./Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small>|
 
