@@ -2,14 +2,14 @@
 House: House Snowridge
 ---
 > [!infobox]+
-> ![[Eira ferch Gwyn.png|cover]]
+> ![[../../images/Eira ferch Gwyn.png|cover]]
 > 
 > || Overview  |
 > | ---  | ---    |
 > | Father   |   |
 > | Mother  |  Gwyn |
-> | Spouse  | [[Emrys ap Bran|Emrys ap Bran]]  |
-> | Children | [[Llywelyn ap Emrys|Llywelyn ap Emrys]], [[Gwenhwyfar ferch Eira|Gwenhwyfar ferch Eira]]  |
+> | Spouse  | [[../House Dolforwyn/Emrys ap Bran|Emrys ap Bran]]  |
+> | Children | [[../House Dolforwyn/Llywelyn ap Emrys|Llywelyn ap Emrys]], [[../House Dolforwyn/Gwenhwyfar ferch Eira|Gwenhwyfar ferch Eira]]  |
 > | Siblings  |   |
 > 
 
