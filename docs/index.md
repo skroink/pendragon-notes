@@ -1,1 +1,1 @@
-![index](Characters/index.md)
+![[Characters/index|index]]
