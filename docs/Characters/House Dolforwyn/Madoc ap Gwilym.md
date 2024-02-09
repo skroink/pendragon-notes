@@ -12,7 +12,7 @@ Siblings:
   - "[[Maelona ferch Eilwen|Maelona ferch Eilwen]]"
 ---
 > [!infobox]+
-> ![[../../images/Madoc ap Gwilym.png|cover]]
+> ![[Madoc ap Gwilym.png|cover]]
 >
 >|| Status   |
 > | ---- | ---- |
@@ -21,8 +21,8 @@ Siblings:
 >
 >|| Relations   |
 > | ---- | ---- |
-> | Father | [[./Gwilym ap Cynric|Gwilym ap Cynric]] |
-> | Mother | [[../House Llyrith/Eilwen ferch Ealdred|Eilwen ferch Ealdred]] |
+> | Father | [[Characters/House Dolforwyn/Gwilym ap Cynric.md|Gwilym ap Cynric]] |
+> | Mother | [[Characters/House Llyrith/Eilwen ferch Ealdred.md|Eilwen ferch Ealdred]] |
 > | Spouse |  |
 > | Children|  |
 > | Siblings | [Geraint ap Gwilym](Characters/House Dolforwyn/Geraint ap Gwilym.md), [Maelona ferch Eilwen](Characters/House Dolforwyn/Maelona ferch Eilwen.md)|
