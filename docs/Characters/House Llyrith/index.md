@@ -1,3 +1,3 @@
 | name                                                                       |
 | -------------------------------------------------------------------------- |
-| [[./Eilwen ferch Ealdred\|Eilwen ferch Ealdred]] |
+| [[Characters/House Llyrith/Eilwen ferch Ealdred.md\|Eilwen ferch Ealdred]] |
