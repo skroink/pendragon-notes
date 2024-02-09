@@ -14,7 +14,7 @@ Birth: "422"
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [422](422) <small>(Age 63)</small> |
+> |Birth| [422](422) <small>(Age NaN)</small> |
 >
 > || Relations   |
 > | ---- | ---- |
