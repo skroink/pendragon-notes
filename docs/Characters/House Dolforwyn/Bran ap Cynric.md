@@ -10,9 +10,8 @@ Mother: "[[Branwen of Boudica]]"
 Marriage:
   - "[[Arianwen ferch Cerdic|Arianwen ferch Cerdic]]"
 Children:
-  - "[[Geraint ap Gwilym|Geraint ap Gwilym]]"
-  - "[[Maelona ferch Eilwen|Maelona ferch Eilwen]]"
-  - "[[Madoc ap Gwilym|Madoc ap Gwilym]]"
+  - "[[Emrys ap Bran|Emrys ap Bran]]"
+  - "[[Seren ferch Arianwen|Seren ferch Arianwen]]"
 ---
 > [!infobox]+
 > ![[Bran ap Cynric.png|cover]]
@@ -33,5 +32,5 @@ Children:
 > | Father | [[Characters/House Dolforwyn/Cynric ap Gwilym.md|Cynric ap Gwilym]] |
 > | Mother | [[Characters/House Dolforwyn/Branwen of Boudica.md|Branwen of Boudica]] |
 > | Spouse | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
-> | Children| [[Geraint ap Gwilym|Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
+> | Children| [[Emrys ap Bran|Emrys ap Bran]], [[Seren ferch Arianwen|Seren ferch Arianwen]] |
 > | Siblings | [[Gwilym ap Cynric|Gwilym ap Cynric]] <small>(Younger Brother)</small>, [[Elowen ferch Branwen|Elowen ferch Branwen]] <small>(Younger Sister)</small> |
