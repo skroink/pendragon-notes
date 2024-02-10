@@ -31,4 +31,4 @@ TestPage: "[[Character]]"
 > | Mother | [[Characters/House Dolforwyn/Branwen of Boudica.md|Branwen of Boudica]] |
 > | Spouse | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
 > | Children|  |
-> | Siblings | [[Gwilym ap Cynric|Gwilym ap Cynric]] <small>(Younger Brother), [[Elowen ferch Branwen|Elowen ferch Branwen]] <small>(Younger Sister) |
+> | Siblings | [[Gwilym ap Cynric|Gwilym ap Cynric]] <small>(Younger Brother)</small>, [[Elowen ferch Branwen|Elowen ferch Branwen]] <small>(Younger Sister)</small> |
