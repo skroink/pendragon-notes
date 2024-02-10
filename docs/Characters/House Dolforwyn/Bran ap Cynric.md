@@ -22,7 +22,7 @@ Marriage:
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [440](Events And Dates/440.md) <small>(Age 45)</small> |
+> |Birth| [[Events And Dates/440.md|440]] <small>(Age 45)</small> |
 >
 >|| Relations   |
 > | ---- | ---- |
