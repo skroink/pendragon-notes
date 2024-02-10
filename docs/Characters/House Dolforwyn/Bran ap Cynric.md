@@ -9,6 +9,7 @@ Father: "[[Cynric ap Gwilym †]]"
 Mother: "[[Branwen of Boudica]]"
 Marriage:
   - "[[Arianwen ferch Cerdic|Arianwen ferch Cerdic]]"
+TestPage: "[[Character]]"
 ---
 > [!infobox]+
 > ![[Bran ap Cynric.png|cover]]
@@ -33,6 +34,5 @@ Marriage:
 > | Siblings | [Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) (Younger Brother), [Elowen ferch Branwen †](Characters/House Dolforwyn/Elowen ferch Branwen †.md) (Younger Sister)|
 
 
-[Gwilym ap Cynric](Gwilym ap Cynric)
-[[Gwilym ap Cynric|Gwilym ap Cynric]]
+[Character](Characters/House Dolforwyn/Character.md)
 
