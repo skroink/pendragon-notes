@@ -31,13 +31,7 @@ Marriage:
 > | Spouse | [[Characters/House Daelwood/Arianwen ferch Cerdic.md|Arianwen ferch Cerdic]] |
 > | Children|  |
 > | Siblings | [Gwilym ap Cynric](Characters/House Dolforwyn/Gwilym ap Cynric.md) (Younger Brother), [Elowen ferch Branwen †](Characters/House Dolforwyn/Elowen ferch Branwen †.md) (Younger Sister)|
-> 
 
-485
-440
 
-45
 
-[440](Events And Dates/440.md)
-[440](440)
-[440](440)
+
