@@ -2,8 +2,7 @@
 House: House Dolforwyn
 Birth: "442"
 Gender: Male
-aliases:
-  - GwilymApCynric
+aliases: []
 ---
 
 > [!infobox]+
