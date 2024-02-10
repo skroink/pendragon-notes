@@ -2,6 +2,8 @@
 House: House Dolforwyn
 Birth: "442"
 Gender: Male
+aliases:
+  - GwilymApCynric
 ---
 
 > [!infobox]+
@@ -44,3 +46,4 @@ Gwilym and Eilwen's union bore three children: Geraint, Maelona, and Madoc. As t
 ## Legacy
 
 While Gwilym did not inherit the family's lands, his legacy lay in the bonds forged through diplomacy and the strong family line he established. As his children matured and ventured into the world, Gwilym took pride in seeing the continued prosperity of House Dolforwyn.
+
