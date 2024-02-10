@@ -34,4 +34,5 @@ Marriage:
 
 
 [Gwilym ap Cynric](Gwilym ap Cynric)
+[[Gwilym ap Cynric|Gwilym ap Cynric]]
 
