@@ -14,7 +14,7 @@ Gender: Male
 cover: "[[Madoc ap Gwilym.png]]"
 ---
 > [!infobox]+
-> ![[Madoc ap Gwilym.png|cover]]
+> ![[Madoc ap Gwilym.jpg|cover]]
 >
 >|| Status   |
 > | ---- | ---- |
