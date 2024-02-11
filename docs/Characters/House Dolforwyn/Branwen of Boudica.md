@@ -6,6 +6,8 @@ Children:
   - "[[Bran ap Cynric|Bran ap Cynric]]"
   - "[[Elowen ferch Branwen|Elowen ferch Branwen]]"
   - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
+Marriage:
+  - "[[Cynric ap Gwilym|Cynric ap Gwilym]]"
 ---
 
 > [!infobox]+
