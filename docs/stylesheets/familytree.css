@@ -5,3 +5,7 @@
 #tree>svg {
   background: transparent;
 }
+
+.filter rect, .filter image, .filter text, .filter use {
+     filter: grayscale(1) blur(2px);
+}
