@@ -15,12 +15,12 @@ Children:
 ---
 > [!infobox]+
 > ![[Bran ap Cynric.png|cover]]
-> 
-> || Lord of Dolforwyn   |
-> | ---- | ---- |
-> |Reign | [[479|479]] |
->|Predecessor | [[Cynric ap Gwilym]] |
->|Heir apparent| [[Emrys ap Bran|Emrys ap Bran]]|
+>
+>||Lord of Dolforwyn|
+>|--|--|
+>|Reign|[[479|479]]|
+>|Predecessor| [[Cynric ap Gwilym]] |
+>|Heir apparent| [[Emrys ap Bran|Emrys ap Bran]] |
 >
 > || Status   |
 > | ---- | ---- |
