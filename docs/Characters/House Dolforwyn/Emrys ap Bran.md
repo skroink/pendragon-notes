@@ -7,7 +7,7 @@ Mother: "[[Arianwen ferch Cerdic]]"
 ---
 
 > [!infobox]+
-> ![[Emrys ap Bran.png|cover]]
+> ![[Emrys ap Bran.jpg|cover]]
 >
 > || Status   |
 > | ---- | ---- |
