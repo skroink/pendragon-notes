@@ -1,6 +1,11 @@
 ---
 House: House Dolforwyn
 Birth: "422"
+Gender: Female
+Children:
+  - "[[Bran ap Cynric|Bran ap Cynric]]"
+  - "[[Elowen ferch Branwen|Elowen ferch Branwen]]"
+  - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
 ---
 
 > [!infobox]+
@@ -18,8 +23,8 @@ Birth: "422"
 >
 > || Relations   |
 > | ---- | ---- |
-> | Spouse | [[Cynric ap Gwilym †|Cynric ap Gwilym †]] <small>([[440|440]])</small> |
-> | Children| [[Bran ap Cynric|Bran ap Cynric]], [[Elowen ferch Branwen †|Elowen ferch Branwen †]], [[Gwilym ap Cynric|Gwilym ap Cynric]] |
+> | Spouse | [[Cynric ap Gwilym|Cynric ap Gwilym]] <small>([[440|440]])</small> |
+> | Children| [[Bran ap Cynric|Bran ap Cynric]], [[Elowen ferch Branwen|Elowen ferch Branwen]], [[Gwilym ap Cynric|Gwilym ap Cynric]] |
 
 ## Early Life
 
@@ -27,7 +32,7 @@ Branwen of Boudica, affectionately known as "The Stalwart," was born in the year
 
 ## Marriage and Family
 
-At the tender age of 15, Branwen entered into a strategic union with [[Cynric ap Gwilym †|Cynric ap Gwilym]], scion of the prestigious House of Dolforwyn, owners of Dolforwyn Castle in Lindsey. She bore her first child, Bran, at the age of 18.
+At the tender age of 15, Branwen entered into a strategic union with [[Cynric ap Gwilym|Cynric ap Gwilym]], scion of the prestigious House of Dolforwyn, owners of Dolforwyn Castle in Lindsey. She bore her first child, Bran, at the age of 18.
 
 ## Legacy of Strength
 

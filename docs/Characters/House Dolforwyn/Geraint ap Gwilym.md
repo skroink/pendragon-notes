@@ -1,6 +1,9 @@
 ---
 House: House Dolforwyn
 Birth: "460"
+Gender: Male
+Father: "[[Gwilym ap Cynric]]"
+Mother: "[[Eilwen ferch Ealdred]]"
 ---
 
 > [!infobox]+
@@ -13,8 +16,8 @@ Birth: "460"
 >
 > || Relations   |
 > | ---- | ---- |
-> | Father | [[Gwilym ap Cynric|Gwilym ap Cynric]] |
-> | Mother | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] |
+> | Father | [[Gwilym ap Cynric]] |
+> | Mother | [[Eilwen ferch Ealdred]] |
 > | Spouse | |
 > | Children||
 > | Siblings |<small>[[Maelona ferch Eilwen|Maelona ferch Eilwen]] (Younger sister), [[Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small>|

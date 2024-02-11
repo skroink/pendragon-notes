@@ -2,6 +2,8 @@
 House: House Dolforwyn
 Birth: "447"
 Gender: Female
+Father: "[[Cynric ap Gwilym]]"
+Mother: "[[Branwen of Boudica]]"
 ---
 
 > [!infobox]+
@@ -16,8 +18,8 @@ Gender: Female
 > 
 > || Relations  |
 > | ---  | ---    |
-> | Father   | [[Cynric ap Gwilym|Cynric ap Gwilym]]  |
-> | Mother  | [[Branwen of Boudica|Branwen of Boudica]] |
+> | Father   | [[Cynric ap Gwilym]]  |
+> | Mother  | [[Branwen of Boudica]] |
 > | Spouse  |   |
 > | Children |   |
 > | Siblings  | [[Bran ap Cynric|Bran ap Cynric]] <small>(Older Brother)</small>, [[Gwilym ap Cynric|Gwilym ap Cynric]] <small>(Older Brother)</small> |

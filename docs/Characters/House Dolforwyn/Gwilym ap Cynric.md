@@ -2,7 +2,11 @@
 House: House Dolforwyn
 Birth: "442"
 Gender: Male
-aliases: []
+aliases: 
+Mother: "[[Branwen of Boudica]]"
+Father: "[[Cynric ap Gwilym]]"
+Marriage:
+  - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
 ---
 
 > [!infobox]+
@@ -17,8 +21,8 @@ aliases: []
 >
 > || Relations   |
 > | ---- | ---- |
-> | Father |  [[Cynric ap Gwilym|Cynric ap Gwilym]] |
-> | Mother | [[Branwen of Boudica|Branwen of Boudica]] |
+> | Father |  [[Cynric ap Gwilym]] |
+> | Mother | [[Branwen of Boudica]] |
 > | Spouse | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] <small>([[457|457]])</small> |
 > | Children| [[Geraint ap Gwilym|Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
 > | Siblings | [[Elowen ferch Branwen|Elowen ferch Branwen]] (older sister), [[Bran ap Cynric|Bran ap Cynric]] (older brother) |
