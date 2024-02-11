@@ -26,7 +26,8 @@ Siblings:
  {
   "id": 1,
   "name": "Maelona ferch Eilwen",
-  "gender": "female"
+  "gender": "female",
+  "fid": 4
  },
  {
   "id": 2,
@@ -43,7 +44,9 @@ Siblings:
  {
   "id": 4,
   "name": "Gwilym ap Cynric",
-  "gender": "male"
+  "gender": "male",
+  "mid": 10,
+  "fid": 9
  },
  {
   "id": 5,
@@ -54,17 +57,21 @@ Siblings:
  {
   "id": 6,
   "name": "Geraint ap Gwilym",
-  "gender": "male"
+  "gender": "male",
+  "fid": 4
  },
  {
   "id": 7,
   "name": "Emrys ap Bran",
-  "gender": "male"
+  "gender": "male",
+  "fid": 11
  },
  {
   "id": 8,
   "name": "Elowen ferch Branwen",
-  "gender": "female"
+  "gender": "female",
+  "mid": 10,
+  "fid": 9
  },
  {
   "id": 9,
