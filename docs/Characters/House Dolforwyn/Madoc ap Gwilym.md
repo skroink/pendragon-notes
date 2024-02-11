@@ -3,21 +3,23 @@ cssclasses:
   - t-c,
   - no-m
 House: House Dolforwyn
-Birth: "465"
+Birth: "[[465]]"
 Children: 
 Father: "[[Gwilym ap Cynric]]"
 Mother: "[[Eilwen ferch Ealdred]]"
 Siblings:
   - "[[Geraint ap Gwilym|Geraint ap Gwilym]]"
   - "[[Maelona ferch Eilwen|Maelona ferch Eilwen]]"
+Gender: Male
+cover: "[[Madoc ap Gwilym.png]]"
 ---
 > [!infobox]+
-> ![[Madoc ap Gwilym.png|cover]]
+> ![[[[images/Madoc ap Gwilym.png|Madoc ap Gwilym.png]]|cover]]
 >
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [465](465) <small>(Age NaN)</small> |
+> |Birth|  <small>(Age NaN)</small> |
 >
 >|| Relations   |
 > | ---- | ---- |
