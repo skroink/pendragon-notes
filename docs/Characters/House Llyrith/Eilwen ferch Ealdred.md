@@ -2,6 +2,7 @@
 House: House Llyrith
 Marriage:
   - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
+Gender: Female
 ---
 
 > [!infobox]+
