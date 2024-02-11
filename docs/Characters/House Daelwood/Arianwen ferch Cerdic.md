@@ -7,6 +7,7 @@ Children:
   - "[[Seren ferch Arianwen|Seren ferch Arianwen]]"
 Birth: "439"
 Mother: Cerdic
+Gender: Female
 ---
 > [!infobox]+
 > ![[Arianwen ferch Cerdic.png|cover]]
