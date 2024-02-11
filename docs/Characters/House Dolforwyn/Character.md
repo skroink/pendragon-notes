@@ -12,6 +12,7 @@ Siblings:
 
 
 <script>
+document$.subscribe(function() {
 	  let family = new FamilyTree(document.getElementById("tree"), {
             nodeBinding: {
                 field_0: "name"
@@ -22,4 +23,6 @@ Siblings:
                 { id: 3, mid: 1, fid: 2, name: "Peter Stevens", gender: "male" }  
             ]
         });
+})
+	
 </script>
