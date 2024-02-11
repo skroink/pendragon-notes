@@ -5,10 +5,18 @@
      if (document.readyState == "complete") {
      	  let family = new FamilyTree(document.getElementById("tree"), {
             nodeBinding: {
-                field_0: "name",
-                img_0: "photo"
+             field_0: "name",
+             field_1: "title",
+             field_2: "house",
+             img_0: "photo",   
             },
+            siblingSpread: 150,
+            mouseScrool: FamilyTree.none,
             template: "john",
+            editForm: {
+            photoBinding: "photo",
+            buttons: null
+            },
             filterBy: {
 	            gender: {},
 	            house: {}  
