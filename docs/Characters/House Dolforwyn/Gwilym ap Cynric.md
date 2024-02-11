@@ -12,7 +12,7 @@ Marriage:
 > [!infobox]+
 > 
 >  
-> ![[Gwilym ap Cynric.png|cover]]
+> ![[Gwilym ap Cynric.jpg|cover]]
 >
 > || Status   |
 > | ---- | ---- |
