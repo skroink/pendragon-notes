@@ -125,6 +125,7 @@ extra_css:
     - assets/css/customization.css
     - stylesheets/infobox.css
     - stylesheets/tables.css
+    - stylesheets/familytree.css
 extra:
   SEO: assets/meta/SEO.png
   comments: False #disable comments globally
