@@ -17,11 +17,11 @@ aliases: []
 >
 > || Relations   |
 > | ---- | ---- |
-> | Father |  [[Cynric ap Gwilym †|Cynric ap Gwilym †]] |
+> | Father |  [[Cynric ap Gwilym|Cynric ap Gwilym]] |
 > | Mother | [[Branwen of Boudica|Branwen of Boudica]] |
 > | Spouse | [[Eilwen ferch Ealdred|Eilwen ferch Ealdred]] <small>([[457|457]])</small> |
 > | Children| [[Geraint ap Gwilym|Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
-> | Siblings | [[Elowen ferch Branwen †|Elowen ferch Branwen †]] (older sister), [[Bran ap Cynric|Bran ap Cynric]] (older brother) |
+> | Siblings | [[Elowen ferch Branwen|Elowen ferch Branwen]] (older sister), [[Bran ap Cynric|Bran ap Cynric]] (older brother) |
 
 
 ## Early Life
