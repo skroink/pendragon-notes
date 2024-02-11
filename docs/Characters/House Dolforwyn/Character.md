@@ -1,6 +1,14 @@
 ---
+Birth: "[[440]]"
+test: true
+Children:
+  - "[[Eira ferch Gwyn|Eira ferch Gwyn]]"
+  - "[[Eilwen ferch Ealdred|Eilwen ferch Ealdred]]"
 Siblings:
-  - "[[Elowen ferch Branwen|Elowen ferch Branwen]]"
+  - "[[Eira ferch Gwyn|Eira ferch Gwyn]]"
 ---
 
-[[Elowen ferch Branwen|Elowen ferch Branwen]]
+
+<script type="javascript">
+	console.log("hello")
+</script>
