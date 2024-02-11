@@ -3,7 +3,6 @@
 | [[Characters/House Dolforwyn/Bran ap Cynric.md\|Bran ap Cynric]]               |
 | [[Characters/House Dolforwyn/Branwen of Boudica.md\|Branwen of Boudica]]       |
 | [[Characters/House Dolforwyn/Cynric ap Gwilym.md\|Cynric ap Gwilym]]           |
-| [[Characters/House Dolforwyn/Character.md\|Character]]                         |
 | [[Characters/House Dolforwyn/Elowen ferch Branwen.md\|Elowen ferch Branwen]]   |
 | [[Characters/House Dolforwyn/Emrys ap Bran.md\|Emrys ap Bran]]                 |
 | [[Characters/House Dolforwyn/Geraint ap Gwilym.md\|Geraint ap Gwilym]]         |
