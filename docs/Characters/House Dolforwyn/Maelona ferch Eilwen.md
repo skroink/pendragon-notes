@@ -7,7 +7,7 @@ Mother: "[[Eilwen ferch Ealdred]]"
 ---
 
 > [!infobox]+
-> ![[Maelona ferch Eilwen.png|cover]]
+> ![[Maelona ferch Eilwen.jpg|cover]]
 >
 > || Status   |
 > | ---- | ---- |
