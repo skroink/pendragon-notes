@@ -22,7 +22,7 @@ Marriage:
 ---
 
 > [!infobox]+
-> ![[Seren ferch Arianwen.png|cover]]
+> ![[Seren ferch Arianwen.jpg|cover]]
 >
 >|| Status   |
 > | ---- | ---- |
