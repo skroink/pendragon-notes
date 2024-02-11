@@ -9,6 +9,6 @@ Siblings:
 ---
 
 
-<script type="javascript">
+<script>
 	console.log("hello")
 </script>
