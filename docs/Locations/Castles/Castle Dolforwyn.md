@@ -2,6 +2,7 @@
 tags:
   - location/castle
 owner: "[[Bran ap Cynric]]"
+inheritable: true
 ---
 >[!infobox]
 >Part of [[Lindsey|Lindsey]]
