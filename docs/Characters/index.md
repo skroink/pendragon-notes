@@ -1,4 +1,4 @@
-<div style="width:100%; height:700px;" id="tree"></div>
+<div style="width:33vw; height:700px;" id="tree"></div>
 
 <script>
   document.onreadystatechange = function () {
