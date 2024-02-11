@@ -7,7 +7,7 @@ Mother: "[[Eilwen ferch Ealdred]]"
 ---
 
 > [!infobox]+
-> ![[Geraint ap Gwilym.png|cover]]
+> ![[Geraint ap Gwilym.jpg|cover]]
 >
 > || Status   |
 > | ---- | ---- |

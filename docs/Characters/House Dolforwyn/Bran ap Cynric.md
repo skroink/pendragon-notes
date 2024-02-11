@@ -14,7 +14,7 @@ Children:
   - "[[Seren ferch Arianwen|Seren ferch Arianwen]]"
 ---
 > [!infobox]+
-> ![[Bran ap Cynric.png|cover]]
+> ![[Bran ap Cynric.jpg|cover]]
 >
 >||Lord of Dolforwyn|
 >|--|--|

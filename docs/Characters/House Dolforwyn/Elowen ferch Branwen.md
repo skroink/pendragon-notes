@@ -8,7 +8,7 @@ Mother: "[[Branwen of Boudica]]"
 
 > [!infobox]+
 >
-> ![[Elowen ferch Branwen †.png|cover]]
+> ![[Elowen ferch Branwen.jpg|cover]]
 > 
 > || Status   |
 > | ---- | ---- |

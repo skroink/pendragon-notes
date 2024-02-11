@@ -6,7 +6,7 @@ Gender: Female
 ---
 
 > [!infobox]+
-> ![[Eilwen ferch Ealdred.png|cover]]
+> ![[Eilwen ferch Ealdred.jpg|cover]]
 > 
 > || Relations   |
 > | ---- | ---- |

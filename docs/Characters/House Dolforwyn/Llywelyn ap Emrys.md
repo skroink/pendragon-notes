@@ -9,7 +9,7 @@ Gender: Female
 ---
 > [!infobox]+
 > # Llywelyn ap Emrys
-> ![[Llywelyn ap Emrys.png|cover]]
+> ![[Llywelyn ap Emrys.jog|cover]]
 >
 >|| Status   |
 > | ---- | ---- |

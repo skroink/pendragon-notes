@@ -10,7 +10,7 @@ Mother: Cerdic
 Gender: Female
 ---
 > [!infobox]+
-> ![[Arianwen ferch Cerdic.png|cover]]
+> ![[Arianwen ferch Cerdic.jpg|cover]]
 > 
 > || Lady of Dolforwyn    |
 > | ---- | ---- |

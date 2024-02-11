@@ -9,7 +9,7 @@ Gender: Female
 ---
 > [!infobox]+
 > # Gwenhwyfar ferch Eira
-> ![[Gwenhwyfar ferch Eira.png|cover]]
+> ![[Gwenhwyfar ferch Eira.jpg|cover]]
 >
 >|| Status   |
 > | ---- | ---- |

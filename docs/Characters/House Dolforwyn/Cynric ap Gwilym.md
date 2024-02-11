@@ -15,7 +15,7 @@ Gender: Male
 
 > [!infobox]+
 > 
-> ![[Cynric ap Gwilym.png|cover]]
+> ![[Cynric ap Gwilym.jpg|cover]]
 >
 > || Lord of Dolforwyn   |
 > | ---- | ---- |
