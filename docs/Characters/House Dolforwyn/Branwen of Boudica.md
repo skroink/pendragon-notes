@@ -12,7 +12,7 @@ Marriage:
 
 > [!infobox]+
 > 
-> ![[Branwen of Boudica.png|cover]]
+> ![[Branwen of Boudica.jpg|cover]]
 > 
 > || Lady of Dolforwyn    |
 > | ---- | ---- |
