@@ -5,6 +5,7 @@ Mother: "[[Eira ferch Gwyn]]"
 Siblings:
   - "[[Gwenhwyfar ferch Eira|Gwenhwyfar ferch Eira]]"
 Birth: "478"
+Gender: Female
 ---
 > [!infobox]+
 > # Llywelyn ap Emrys
