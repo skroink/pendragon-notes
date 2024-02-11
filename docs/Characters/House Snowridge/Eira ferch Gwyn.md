@@ -2,7 +2,7 @@
 House: House Snowridge
 ---
 > [!infobox]+
-> ![[Eira ferch Gwyn.png|cover]]
+> ![[Eira ferch Gwyn.jpg|cover]]
 > 
 > || Overview  |
 > | ---  | ---    |
