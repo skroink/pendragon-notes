@@ -6,7 +6,7 @@ aliases:
 Mother: "[[Branwen of Boudica]]"
 Father: "[[Cynric ap Gwilym]]"
 Marriage:
-  - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
+  - "[[Eilwen ferch Ealdred|Eilwen ferch Ealdred]]"
 ---
 
 > [!infobox]+
