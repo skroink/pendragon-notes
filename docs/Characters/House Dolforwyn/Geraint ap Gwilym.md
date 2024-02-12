@@ -1,19 +1,6 @@
 ---
 House: House Dolforwyn
 Birth: "[[460]]"
-Death: 
-Father: 
-Mother: 
-Marriage: 
-Gender: Male
-Siblings:
-  - "[[Madoc ap Gwilym|Madoc ap Gwilym]]"
-  - "[[Maelona ferch Eilwen|Maelona ferch Eilwen]]"
-Children: 
----
----
-House: House Dolforwyn
-Birth: "[[460]]"
 Death:
 Father: 
 Mother:
