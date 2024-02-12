@@ -25,7 +25,8 @@ Siblings:
 Children:
 ---
 
- >[!infobox]
+
+ >[!infobox]+
  >
  >![[Geraint ap Gwilym.jpg|cover]]
  >
