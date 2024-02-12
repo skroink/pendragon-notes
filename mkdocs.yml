@@ -82,6 +82,7 @@ markdown_extensions:
 plugins:
   - search
   - meta-descriptions
+  - social
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
