@@ -1,5 +1,7 @@
 ---
 House: House Snowridge
+Marriage:
+  - "[[Emrys ap Bran|Emrys ap Bran]]"
 ---
 > [!infobox]+
 > ![[Eira ferch Gwyn.jpg|cover]]
