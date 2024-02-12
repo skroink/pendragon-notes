@@ -39,6 +39,7 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
+        - navigation.instant.preview
 
 # Extensions
 markdown_extensions:
