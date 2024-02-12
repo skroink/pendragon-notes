@@ -6,7 +6,7 @@ inheritable: true
 ---
 >[!infobox]
 >Part of [[Lindsey|Lindsey]]
->![[Castle Dolforwyn.png|Castle Dolforwyn.png]]
+>![[Castle Dolforwyn.jpg|Castle Dolforwyn.jpg]]
 >
 >||Information|
 >|--|--|
