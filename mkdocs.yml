@@ -1,4 +1,4 @@
-site_name: Pendragon Notes # Change this to your site name
+site_name: Pendragon # Change this to your site name
 site_description: Obsdian notes
 site_url: http://skroink.github.io/pendragon-notes # Change this to your site URL
 site_author: skroink
@@ -14,23 +14,11 @@ theme:
     language: en
     palette:
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: light blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: blue
       accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
     features:
         - navigation.indexes
         - navigation.top

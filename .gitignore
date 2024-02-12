@@ -4,3 +4,8 @@ Pipfile
 Pipfile.lock
 test-env.yml
 payload.json
+.cache
+.idea
+site
+encryptcontent.cache
+overrides/hooks/__pycache__

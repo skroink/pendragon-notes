@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 750px;
+                 height: 750px;
+                 background-color: transparent;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Castle Dolforwyn", "label": "Castle Dolforwyn", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Lindsey", "label": "Lindsey", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Locations/Castles/index", "label": "Locations/Castles/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Locations/Castles/Castle Dolforwyn", "label": "Locations/Castles/Castle Dolforwyn", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Bran ap Cynric", "label": "Characters/House Dolforwyn/Bran ap Cynric", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Bran ap Cynric", "label": "Bran ap Cynric", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "479  \n\u003e Predecessor [[Cynric ap Gwilym", "label": "479  \n\u003e Predecessor [[Cynric ap Gwilym", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Seren ferch Arianwen", "label": "Seren ferch Arianwen", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Arianwen ferch Cerdic", "label": "Arianwen ferch Cerdic", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Emrys ap Bran", "label": "Emrys ap Bran", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Geraint ap Gwilym", "label": "Geraint ap Gwilym", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Gwilym ap Cynric", "label": "Gwilym ap Cynric", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Eilwen ferch Ealdred", "label": "Eilwen ferch Ealdred", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Cynric ap Gwilym", "label": "Cynric ap Gwilym", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Branwen of Boudica", "label": "Branwen of Boudica", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Eilwen ferch Ealdred  \n\u003e Children [[Geraint ap Gwilym  \n\u003e Siblings [[Elowen ferch Branwen  \n  \n", "label": "Eilwen ferch Ealdred  \n\u003e Children [[Geraint ap Gwilym  \n\u003e Siblings [[Elowen ferch Branwen  \n  \n", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "457", "label": "457", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Maelona ferch Eilwen", "label": "Maelona ferch Eilwen", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "420", "label": "420", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Elowen ferch Branwen", "label": "Elowen ferch Branwen", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "479", "label": "479", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Cynric ap Gwilym  \n\u003e Children [[Bran ap Cynric  \n  \n", "label": "Cynric ap Gwilym  \n\u003e Children [[Bran ap Cynric  \n  \n", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "456  \n\u003e Relations  \n\u003e Father [[Cynric ap Gwilym", "label": "456  \n\u003e Relations  \n\u003e Father [[Cynric ap Gwilym", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/index", "label": "Characters/House Dolforwyn/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Branwen of Boudica", "label": "Characters/House Dolforwyn/Branwen of Boudica", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Cynric ap Gwilym", "label": "Characters/House Dolforwyn/Cynric ap Gwilym", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Elowen ferch Branwen", "label": "Characters/House Dolforwyn/Elowen ferch Branwen", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Emrys ap Bran", "label": "Characters/House Dolforwyn/Emrys ap Bran", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Geraint ap Gwilym", "label": "Characters/House Dolforwyn/Geraint ap Gwilym", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Gwenhwyfar ferch Eira", "label": "Characters/House Dolforwyn/Gwenhwyfar ferch Eira", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Gwilym ap Cynric", "label": "Characters/House Dolforwyn/Gwilym ap Cynric", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Llywelyn ap Emrys", "label": "Characters/House Dolforwyn/Llywelyn ap Emrys", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Madoc ap Gwilym", "label": "Characters/House Dolforwyn/Madoc ap Gwilym", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Maelona ferch Eilwen", "label": "Characters/House Dolforwyn/Maelona ferch Eilwen", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Dolforwyn/Seren ferch Arianwen", "label": "Characters/House Dolforwyn/Seren ferch Arianwen", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Llyrith/index", "label": "Characters/House Llyrith/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Llyrith/Eilwen ferch Ealdred", "label": "Characters/House Llyrith/Eilwen ferch Ealdred", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Daelwood/index", "label": "Characters/House Daelwood/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Daelwood/Arianwen ferch Cerdic", "label": "Characters/House Daelwood/Arianwen ferch Cerdic", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Snowridge/index", "label": "Characters/House Snowridge/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/House Snowridge/Eira ferch Gwyn", "label": "Characters/House Snowridge/Eira ferch Gwyn", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "440", "label": "440", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "445", "label": "445", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "422", "label": "422", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "465", "label": "465", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Madoc ap Gwilym", "label": "Madoc ap Gwilym", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Events And Dates/index", "label": "Events And Dates/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Events And Dates/061", "label": "Events And Dates/061", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Events And Dates/420", "label": "Events And Dates/420", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Events And Dates/422", "label": "Events And Dates/422", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Events And Dates/440", "label": "Events And Dates/440", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Events And Dates/445", "label": "Events And Dates/445", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Events And Dates/465", "label": "Events And Dates/465", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Events And Dates/479", "label": "Events And Dates/479", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "index", "label": "index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Campaign", "label": "Campaign", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "tags", "label": "tags", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Castle Snowridge", "label": "Castle Snowridge", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Untitled", "label": "Untitled", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Characters/index", "label": "Characters/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Gwenhwyfar ferch Eira", "label": "Gwenhwyfar ferch Eira", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Llywelyn ap Emrys", "label": "Llywelyn ap Emrys", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Eira ferch Gwyn", "label": "Eira ferch Gwyn", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "463", "label": "463", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "061", "label": "061", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "485", "label": "485", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "478", "label": "478", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"from": "Castle Dolforwyn", "to": "Lindsey", "width": 1}, {"from": "Locations/Castles/index", "to": "Locations/Castles/Castle Dolforwyn", "width": 1}, {"from": "Locations/Castles/index", "to": "Characters/House Dolforwyn/Bran ap Cynric", "width": 1}, {"from": "Bran ap Cynric", "to": "479  \n\u003e Predecessor [[Cynric ap Gwilym", "width": 1}, {"from": "Seren ferch Arianwen", "to": "Bran ap Cynric", "width": 1}, {"from": "Seren ferch Arianwen", "to": "Arianwen ferch Cerdic", "width": 1}, {"from": "Seren ferch Arianwen", "to": "Emrys ap Bran", "width": 1}, {"from": "Geraint ap Gwilym", "to": "Gwilym ap Cynric", "width": 1}, {"from": "Geraint ap Gwilym", "to": "Eilwen ferch Ealdred", "width": 1}, {"from": "Gwilym ap Cynric", "to": "Cynric ap Gwilym", "width": 1}, {"from": "Gwilym ap Cynric", "to": "Branwen of Boudica", "width": 1}, {"from": "Gwilym ap Cynric", "to": "Eilwen ferch Ealdred  \n\u003e Children [[Geraint ap Gwilym  \n\u003e Siblings [[Elowen ferch Branwen  \n  \n", "width": 1}, {"from": "Gwilym ap Cynric", "to": "Bran ap Cynric", "width": 1}, {"from": "Gwilym ap Cynric", "to": "457", "width": 1}, {"from": "Maelona ferch Eilwen", "to": "Gwilym ap Cynric", "width": 1}, {"from": "Maelona ferch Eilwen", "to": "Eilwen ferch Ealdred", "width": 1}, {"from": "Cynric ap Gwilym", "to": "420", "width": 1}, {"from": "Cynric ap Gwilym", "to": "Branwen of Boudica", "width": 1}, {"from": "Cynric ap Gwilym", "to": "Bran ap Cynric", "width": 1}, {"from": "Cynric ap Gwilym", "to": "Elowen ferch Branwen", "width": 1}, {"from": "Cynric ap Gwilym", "to": "479", "width": 1}, {"from": "Branwen of Boudica", "to": "Cynric ap Gwilym  \n\u003e Children [[Bran ap Cynric  \n  \n", "width": 1}, {"from": "Emrys ap Bran", "to": "Bran ap Cynric", "width": 1}, {"from": "Emrys ap Bran", "to": "Arianwen ferch Cerdic", "width": 1}, {"from": "Elowen ferch Branwen", "to": "456  \n\u003e Relations  \n\u003e Father [[Cynric ap Gwilym", "width": 1}, {"from": "Elowen ferch Branwen", "to": "Branwen of Boudica", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Bran ap Cynric", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Branwen of Boudica", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Cynric ap Gwilym", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Elowen ferch Branwen", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Emrys ap Bran", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Geraint ap Gwilym", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Gwenhwyfar ferch Eira", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Gwilym ap Cynric", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Llywelyn ap Emrys", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Madoc ap Gwilym", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Maelona ferch Eilwen", "width": 1}, {"from": "Characters/House Dolforwyn/index", "to": "Characters/House Dolforwyn/Seren ferch Arianwen", "width": 1}, {"from": "Characters/House Llyrith/index", "to": "Characters/House Llyrith/Eilwen ferch Ealdred", "width": 1}, {"from": "Characters/House Daelwood/index", "to": "Characters/House Daelwood/Arianwen ferch Cerdic", "width": 1}, {"from": "Characters/House Snowridge/index", "to": "Characters/House Snowridge/Eira ferch Gwyn", "width": 1}, {"from": "440", "to": "Cynric ap Gwilym", "width": 1}, {"from": "440", "to": "Branwen of Boudica", "width": 1}, {"from": "445", "to": "Cynric ap Gwilym", "width": 1}, {"from": "445", "to": "Castle Dolforwyn", "width": 1}, {"from": "422", "to": "Branwen of Boudica", "width": 1}, {"from": "479", "to": "Bran ap Cynric", "width": 1}, {"from": "479", "to": "Castle Dolforwyn", "width": 1}, {"from": "465", "to": "Madoc ap Gwilym", "width": 1}, {"from": "Events And Dates/index", "to": "Events And Dates/061", "width": 1}, {"from": "Events And Dates/index", "to": "Events And Dates/420", "width": 1}, {"from": "Events And Dates/index", "to": "Cynric ap Gwilym", "width": 1}, {"from": "Events And Dates/index", "to": "Events And Dates/422", "width": 1}, {"from": "Events And Dates/index", "to": "Branwen of Boudica", "width": 1}, {"from": "Events And Dates/index", "to": "Events And Dates/440", "width": 1}, {"from": "Events And Dates/index", "to": "Events And Dates/445", "width": 1}, {"from": "Events And Dates/index", "to": "Castle Dolforwyn", "width": 1}, {"from": "Events And Dates/index", "to": "Events And Dates/465", "width": 1}, {"from": "Events And Dates/index", "to": "Madoc ap Gwilym", "width": 1}, {"from": "Events And Dates/index", "to": "Events And Dates/479", "width": 1}, {"from": "Events And Dates/index", "to": "Bran ap Cynric", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
