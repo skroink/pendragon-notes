@@ -3,6 +3,7 @@ House: House Snowridge
 Marriage:
   - "[[Emrys ap Bran|Emrys ap Bran]]"
 Gender: Female
+description: Wife to Emrys ap Bran
 ---
 > [!infobox]+
 > ![[Eira ferch Gwyn.jpg|cover]]
