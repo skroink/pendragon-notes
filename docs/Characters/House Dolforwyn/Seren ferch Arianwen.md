@@ -9,7 +9,7 @@ Gender: Female
 Death: 
 Marriage: 
 ---
----
+
 House: House Dolforwyn
 Birth: "462"
 Father: "[[Bran ap Cynric]]"
