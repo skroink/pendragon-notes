@@ -4,6 +4,7 @@ Birth: "447"
 Gender: Female
 Father: "[[Cynric ap Gwilym]]"
 Mother: "[[Branwen of Boudica]]"
+Death: "[[456]]"
 ---
 
 > [!infobox]+
@@ -14,7 +15,7 @@ Mother: "[[Branwen of Boudica]]"
 > | ---- | ---- |
 > |Status| Deceased|
 > |Birth| [447](447)  |
-> |Death|[[456|456]] <small>(Age 9)</small>|
+> |Death|[[456]] <small>(Age 9)</small>|
 > 
 > || Relations  |
 > | ---  | ---    |
