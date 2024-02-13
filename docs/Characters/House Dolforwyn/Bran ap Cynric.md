@@ -1,6 +1,6 @@
 ---
 House: House Dolforwyn
-Birth: "[[440]]"
+Birth: "440"
 Siblings:
   - "[[Gwilym ap Cynric|Gwilym ap Cynric]]"
   - "[[Elowen ferch Branwen|Elowen ferch Branwen]]"
@@ -25,7 +25,7 @@ Children:
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [[Events And Dates/440.md|440]] <small>(Age 45)</small> |
+> |Birth|440 <small>(Age 45)</small>  |
 >
 > || Relations   |
 > | ---- | ---- |
