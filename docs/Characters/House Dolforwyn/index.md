@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 | name                                                                           |
 | ------------------------------------------------------------------------------ |
 | [[Characters/House Dolforwyn/Bran ap Cynric.md\|Bran ap Cynric]]               |

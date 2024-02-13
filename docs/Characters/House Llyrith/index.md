@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 | name                                                                       |
 | -------------------------------------------------------------------------- |
 | [[Characters/House Llyrith/Eilwen ferch Ealdred.md\|Eilwen ferch Ealdred]] |
@@ -23,7 +27,7 @@
 		            Deceased: { checked:false }
 	            }
             },
-            nodes:  [{"id":1,"photo":"../../images/Eilwen ferch Ealdred.jpg","name":"Eilwen ferch Ealdred","pids":[1],"gender":"female","house":"House Llyrith","status":"Alive"},{"id":1,"photo":"../../images/Gwilym ap Cynric.jpg","name":"Gwilym ap Cynric","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
+            nodes:  [{"id":1,"photo":"../../images/Eilwen ferch Ealdred.jpg","name":"Eilwen ferch Ealdred","pids":[2],"gender":"female","house":"House Llyrith","status":"Alive"},{"id":2,"photo":"../../images/Gwilym ap Cynric.jpg","name":"Gwilym ap Cynric","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
 		})
 	}
 }

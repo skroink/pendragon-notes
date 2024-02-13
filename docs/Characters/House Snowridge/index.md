@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 | name                                                               |
 | ------------------------------------------------------------------ |
 | [[Characters/House Snowridge/Eira ferch Gwyn.md\|Eira ferch Gwyn]] |
@@ -23,7 +27,7 @@
 		            Deceased: { checked:false }
 	            }
             },
-            nodes:  [{"id":1,"photo":"../../images/Eira ferch Gwyn.jpg","name":"Eira ferch Gwyn","pids":[1],"gender":"female","house":"House Snowridge","status":"Alive"},{"id":1,"photo":"../../images/Emrys ap Bran.jpg","name":"Emrys ap Bran","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
+            nodes:  [{"id":1,"photo":"../../images/Eira ferch Gwyn.jpg","name":"Eira ferch Gwyn","pids":[2],"gender":"female","house":"House Snowridge","status":"Alive"},{"id":2,"photo":"../../images/Emrys ap Bran.jpg","name":"Emrys ap Bran","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
 		})
 	}
 }

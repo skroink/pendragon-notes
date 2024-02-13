@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 | name                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [[Characters/House Dreadhold/Penellaphe of Dreadhold.md\|Penellaphe of Dreadhold]] |

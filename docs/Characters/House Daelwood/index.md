@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 | name                                                                          |
 | ----------------------------------------------------------------------------- |
 | [[Characters/House Daelwood/Arianwen ferch Cerdic.md\|Arianwen ferch Cerdic]] |
@@ -23,7 +27,7 @@
 		            Deceased: { checked:false }
 	            }
             },
-            nodes:  [{"id":1,"photo":"../../images/Arianwen ferch Cerdic.jpg","name":"Arianwen ferch Cerdic","pids":[1],"gender":"female","house":"House Daelwood","status":"Alive"},{"id":1,"photo":"../../images/Bran ap Cynric.jpg","name":"Bran ap Cynric","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
+            nodes:  [{"id":1,"photo":"../../images/Arianwen ferch Cerdic.jpg","name":"Arianwen ferch Cerdic","pids":[2],"gender":"female","house":"House Daelwood","status":"Alive"},{"id":2,"photo":"../../images/Bran ap Cynric.jpg","name":"Bran ap Cynric","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
 		})
 	}
 }
