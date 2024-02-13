@@ -17,7 +17,7 @@ Marriage:
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [442](442) <small>(Age NaN)</small> |
+> |Birth|442 <small>(Age 43)</small>  |
 >
 > || Relations   |
 > | ---- | ---- |
