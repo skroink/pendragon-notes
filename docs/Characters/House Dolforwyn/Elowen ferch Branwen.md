@@ -15,7 +15,7 @@ Death: "[[456]]"
 > | ---- | ---- |
 > |Status| Deceased|
 > |Birth| [447](447)  |
-> |Death|[[456]] <small>(Age 9)</small>|
+> |Death|[[456]] <small>(Age 23)</small>|
 > 
 > || Relations  |
 > | ---  | ---    |
