@@ -2,6 +2,7 @@
 hide:
   - toc
 ---
+
 | name                                                                           |
 | ------------------------------------------------------------------------------ |
 | [[Characters/House Dolforwyn/Bran ap Cynric.md\|Bran ap Cynric]]               |
@@ -25,7 +26,9 @@ hide:
      if (document.readyState == "complete") {
      	  let family = new FamilyTree(document.getElementById("tree"), {
             nodeBinding: {field_0: "name",field_1: "title",field_2: "house",img_0: "photo" },
-            siblingSpread: 150,
+            levelSeparation: 100,
+            siblingSeparation: 100,
+            subtreeSeparation:150,
             template: "john",
             editForm: {
             photoBinding: "photo",
