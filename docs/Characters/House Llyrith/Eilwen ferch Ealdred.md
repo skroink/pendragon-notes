@@ -13,6 +13,6 @@ Gender: Female
 > | Father ||
 > | Mother | Ealdred |
 > | Spouse | [[Gwilym ap Cynric|Gwilym ap Cynric]] |
-> | Children| [[Geraint ap Gwilym|Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
+> | Children| [[Characters/House Dolforwyn/Geraint ap Gwilym|Characters/House Dolforwyn/Geraint ap Gwilym]], [[Maelona ferch Eilwen|Maelona ferch Eilwen]], [[Madoc ap Gwilym|Madoc ap Gwilym]] |
 > | Siblings ||
 
