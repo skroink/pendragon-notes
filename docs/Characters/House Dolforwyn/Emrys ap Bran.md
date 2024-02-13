@@ -14,7 +14,7 @@ Marriage:
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [458](458) <small>(Age NaN)</small> |
+> |Birth|458 <small>(Age 27)</small>  |
 >
 > || Relations   |
 > | ---- | ---- |
