@@ -7,7 +7,7 @@ hide:
 | [[Characters/House Llyrith/Eilwen ferch Ealdred.md\|Eilwen ferch Ealdred]] |
 
 
-<div style="width:700px; height:700px;" id="tree"></div>
+<div style="width:100%; height:700px;" id="tree"></div>
 
 <script>
   document.onreadystatechange = function () {

@@ -7,7 +7,7 @@ hide:
 | [[Characters/House Dreadhold/Penellaphe of Dreadhold.md\|Penellaphe of Dreadhold]] |
 
 
-<div style="width:700px; height:700px;" id="tree"></div>
+<div style="width:100%; height:700px;" id="tree"></div>
 
 <script>
   document.onreadystatechange = function () {
