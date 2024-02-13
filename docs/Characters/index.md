@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 <div style="width:700px; height:700px;" id="tree"></div>
 
 <script>
