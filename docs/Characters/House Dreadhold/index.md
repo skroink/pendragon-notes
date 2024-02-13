@@ -1,6 +1,6 @@
-| name                                                                          |
-| ----------------------------------------------------------------------------- |
-| [[Characters/House Daelwood/Arianwen ferch Cerdic.md\|Arianwen ferch Cerdic]] |
+| name                                                                               |
+| ---------------------------------------------------------------------------------- |
+| [[Characters/House Dreadhold/Penellaphe of Dreadhold.md\|Penellaphe of Dreadhold]] |
 
 
 <div style="width:700px; height:700px;" id="tree"></div>
@@ -23,7 +23,7 @@
 		            Deceased: { checked:false }
 	            }
             },
-            nodes:  [{"id":1,"photo":"../../images/Arianwen ferch Cerdic.jpg","name":"Arianwen ferch Cerdic","pids":[1],"gender":"female","house":"House Daelwood","status":"Alive"},{"id":1,"photo":"../../images/Bran ap Cynric.jpg","name":"Bran ap Cynric","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
+            nodes:  [{"id":1,"photo":"../../images/Penellaphe of Dreadhold.jpg","name":"Penellaphe of Dreadhold","pids":[],"gender":"female","house":"House Dreadhold","status":"Alive"}]
 		})
 	}
 }

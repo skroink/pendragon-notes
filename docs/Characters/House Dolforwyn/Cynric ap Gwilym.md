@@ -47,7 +47,7 @@ Under the guidance of the castle's seasoned knights and scholars, Cynric honed h
 
 ## Marriage and Alliance
 
-At the age of 20, Cynric entered into a strategic union with [[Branwen of Boudica|Branwen]]{ data-preview }, a descendant of the legendary Queen Boudica, a union that would solidify the ties between the House of Dolforwyn and the legacy of Boudica. The marriage was not only a union of hearts but a pact that would shape the destiny of Dolforwyn Castle.
+At the age of 20, Cynric entered into a strategic union with [[Branwen of Boudica|Branwen]], a descendant of the legendary Queen Boudica, a union that would solidify the ties between the House of Dolforwyn and the legacy of Boudica. The marriage was not only a union of hearts but a pact that would shape the destiny of Dolforwyn Castle.
 
 ## Leadership and Challenges
 

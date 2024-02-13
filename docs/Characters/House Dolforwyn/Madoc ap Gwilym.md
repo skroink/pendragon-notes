@@ -8,7 +8,7 @@ Children:
 Father: "[[Gwilym ap Cynric]]"
 Mother: "[[Eilwen ferch Ealdred]]"
 Siblings:
-  - "[[Geraint ap Gwilym|Geraint ap Gwilym]]"
+  - "[[Characters/House Dolforwyn/Geraint ap Gwilym|Characters/House Dolforwyn/Geraint ap Gwilym]]"
   - "[[Maelona ferch Eilwen|Maelona ferch Eilwen]]"
 Gender: Male
 cover: "[[Madoc ap Gwilym.png]]"

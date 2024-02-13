@@ -21,5 +21,5 @@ Mother: "[[Eilwen ferch Ealdred]]"
 > | Mother | [[Eilwen ferch Ealdred]] |
 > | Spouse |  |
 > | Children| |
-> | Siblings | <small>[[Geraint ap Gwilym|Geraint ap Gwilym]] (Older brother), [[Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small> |
+> | Siblings | <small>[[Characters/House Dolforwyn/Geraint ap Gwilym|Characters/House Dolforwyn/Geraint ap Gwilym]] (Older brother), [[Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small> |
 
