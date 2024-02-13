@@ -19,7 +19,7 @@ Gender: Female
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [439](439) <small>(Age NaN)</small> |
+> |Birth|439 <small>(Age 46)</small>  |
 >
 >|| Relations   |
 > | ---- | ---- |
