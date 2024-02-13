@@ -12,7 +12,7 @@ Mother: "[[Eilwen ferch Ealdred]]"
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [463](463) <small>(Age NaN)</small> |
+> |Birth|463 <small>(Age 22)</small>  |
 >
 > || Overview   |
 > | ---- | ---- |

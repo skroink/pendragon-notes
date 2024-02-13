@@ -8,13 +8,12 @@ Birth: "481"
 Gender: Female
 ---
 > [!infobox]+
-> # Gwenhwyfar ferch Eira
 > ![[Gwenhwyfar ferch Eira.jpg|cover]]
 >
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [481](481) <small>(Age NaN)</small> |
+> |Birth|481 <small>(Age 4)</small>  |
 >
 >|| Relations   |
 > | ---- | ---- |

@@ -19,7 +19,7 @@ cover: "[[Madoc ap Gwilym.png]]"
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth|  <small>(Age NaN)</small> |
+> |Birth|[[Events And Dates/465.md|465]] <small>(Age 20)</small>  |
 >
 >|| Relations   |
 > | ---- | ---- |
