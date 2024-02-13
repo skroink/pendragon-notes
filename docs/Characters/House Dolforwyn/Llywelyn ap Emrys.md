@@ -5,16 +5,15 @@ Mother: "[[Eira ferch Gwyn]]"
 Siblings:
   - "[[Gwenhwyfar ferch Eira|Gwenhwyfar ferch Eira]]"
 Birth: "478"
-Gender: Female
+Gender: Male
 ---
 > [!infobox]+
-> # Llywelyn ap Emrys
-> ![[Llywelyn ap Emrys.jog|cover]]
+> ![[Llywelyn ap Emrys.jpg|cover]]
 >
 >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth| [478](478) <small>(Age NaN)</small> |
+> |Birth|478 <small>(Age 7)</small>  |
 >
 >|| Relations   |
 > | ---- | ---- |
