@@ -4,6 +4,8 @@ Birth: "458"
 Gender: Male
 Father: "[[Bran ap Cynric]]"
 Mother: "[[Arianwen ferch Cerdic]]"
+Marriage:
+  - "[[Eira ferch Gwyn|Eira ferch Gwyn]]"
 ---
 
 > [!infobox]+
