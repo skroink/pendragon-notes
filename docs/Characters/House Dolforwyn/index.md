@@ -5,18 +5,18 @@ hide:
 
 | name                                                                           |
 | ------------------------------------------------------------------------------ |
-| [[Characters/House Dolforwyn/Bran ap Cynric.md\|Bran ap Cynric]]               |
-| [[Characters/House Dolforwyn/Branwen of Boudica.md\|Branwen of Boudica]]       |
 | [[Characters/House Dolforwyn/Cynric ap Gwilym.md\|Cynric ap Gwilym]]           |
+| [[Characters/House Dolforwyn/Bran ap Cynric.md\|Bran ap Cynric]]               |
 | [[Characters/House Dolforwyn/Elowen ferch Branwen.md\|Elowen ferch Branwen]]   |
 | [[Characters/House Dolforwyn/Emrys ap Bran.md\|Emrys ap Bran]]                 |
-| [[Characters/House Dolforwyn/Geraint ap Gwilym.md\|Geraint ap Gwilym]]         |
-| [[Characters/House Dolforwyn/Gwenhwyfar ferch Eira.md\|Gwenhwyfar ferch Eira]] |
+| [[Characters/House Dolforwyn/Branwen of Boudica.md\|Branwen of Boudica]]       |
 | [[Characters/House Dolforwyn/Gwilym ap Cynric.md\|Gwilym ap Cynric]]           |
 | [[Characters/House Dolforwyn/Llywelyn ap Emrys.md\|Llywelyn ap Emrys]]         |
 | [[Characters/House Dolforwyn/Madoc ap Gwilym.md\|Madoc ap Gwilym]]             |
-| [[Characters/House Dolforwyn/Maelona ferch Eilwen.md\|Maelona ferch Eilwen]]   |
+| [[Characters/House Dolforwyn/Geraint ap Gwilym.md\|Geraint ap Gwilym]]         |
+| [[Characters/House Dolforwyn/Gwenhwyfar ferch Eira.md\|Gwenhwyfar ferch Eira]] |
 | [[Characters/House Dolforwyn/Seren ferch Arianwen.md\|Seren ferch Arianwen]]   |
+| [[Characters/House Dolforwyn/Maelona ferch Eilwen.md\|Maelona ferch Eilwen]]   |
 
 
 <div style="width:100%; height:700px;" id="tree"></div>
@@ -25,7 +25,7 @@ hide:
   document.onreadystatechange = function () {
      if (document.readyState == "complete") {
      	  let family = new FamilyTree(document.getElementById("tree"), {
-            nodeBinding: {field_0: "name",field_1: "title",field_2: "house",img_0: "photo" },
+            nodeBinding: {field_0: "name",field_1: "status",img_0: "photo" },
             levelSeparation: 100,
             siblingSeparation: 100,
             subtreeSeparation:150,
