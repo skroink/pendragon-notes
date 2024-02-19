@@ -1,6 +1,6 @@
 ---
 House: House Dolforwyn
-Birth: "442"
+Birth: "[[442]]"
 Gender: Male
 aliases: 
 Mother: "[[Branwen of Boudica]]"
@@ -17,7 +17,7 @@ Marriage:
 > || Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth|442 <small>(Age 43)</small>  |
+> |Birth|[[442|442]] <small>(Age 43)</small>  |
 >
 > || Relations   |
 > | ---- | ---- |
@@ -30,7 +30,7 @@ Marriage:
 
 ## Early Life
 
-Gwilym ap Cynric, the youngest son of the esteemed House Dolforwyn, was born in the year [[442|442]] amidst the grandeur of Dolforwyn Castle. Growing up in the shadow of his elder brother [[Bran ap Cynric|Bran]], Gwilym embraced the freedom that came with being the family's youngest scion.
+Gwilym ap Cynric, the youngest son of the esteemed House Dolforwyn, was born in the year [[442]] amidst the grandeur of Dolforwyn Castle. Growing up in the shadow of his elder brother [[Bran ap Cynric|Bran]], Gwilym embraced the freedom that came with being the family's youngest scion.
 
 ## Education and Knighthood
 
