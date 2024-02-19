@@ -10,6 +10,18 @@ Gender: Female
 Siblings: 
 Children: 
 ---
+---
+House: House Tirion
+Birth: "[[467]]"
+Death: 
+Father: 
+Mother: 
+Marriage:
+  - "[[Madoc ap Gwilym|Madoc ap Gwilym]]"
+Gender: Female
+Siblings: 
+Children:
+---
 
  >[!infobox]+
  >
