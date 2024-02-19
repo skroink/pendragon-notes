@@ -1,3 +1,8 @@
+| name                                                              |
+| ----------------------------------------------------------------- |
+| [[Characters/House Tirion/Elinor of Tirion.md\|Elinor of Tirion]] |
+
+
 <div style="width:100%; height:700px;" id="tree"></div>
 
 <script>
@@ -13,6 +18,7 @@
             photoBinding: "photo",
             buttons: null
             },
+            roots: [1],
             filterBy: {
 	            gender: {},
 	            house: {} ,
@@ -20,7 +26,7 @@
 		            Deceased: { checked:false }
 	            }
             },
-            nodes:  [{"id":1,"photo":"../../images/Elinor of Tirion.jpg","name":"Elinor of Tirion","birth":"467","pids":[2],"gender":"female","house":"House Tirion","status":"Alive"},{"id":2,"photo":"../../images/Madoc ap Gwilym.jpg","name":"Madoc ap Gwilym","birth":"465","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
+            nodes:  [{"id":1,"photo":"../../images/Madoc ap Gwilym.jpg","name":"Madoc ap Gwilym","birth":"465","pids":[2],"gender":"male","house":"House Dolforwyn","status":"Alive"},{"id":2,"photo":"../../images/Elinor of Tirion.jpg","name":"Elinor of Tirion","birth":"467","pids":[1],"gender":"female","house":"House Tirion","status":"Alive"}]
 		})
 
 
@@ -29,25 +35,14 @@
 			var cnodeData = family.get(args.cnode.id);
 			var nodeData = family.get(args.node.id);
 
-		    if (cnodeData.divorced != undefined && nodeData.divorced != undefined && cnodeData.divorced.includes(args.node.id) && nodeData.divorced.includes(args.cnode.id)) {
+			if (cnodeData.divorced != undefined && nodeData.divorced != undefined && cnodeData.divorced.includes(args.node.id) && nodeData.divorced.includes(args.cnode.id)) {
 
-		        args.html = args.html
-			        .replace("path", "path stroke-dasharray='3, 2'");
-			        
-		        args.html = args.html
-		        .replace(/stroke=\"*\"/g, "stroke='#AA1945'");
-
-		    }
-
-		    if (cnodeData.engaged != undefined && nodeData.engaged != undefined && cnodeData.engaged.includes(args.node.id) && nodeData.engaged.includes(args.cnode.id)) {
-    
-		        args.html = args.html
-			        .replace("path", "path stroke-dasharray='2, 2'");
-			        
-		        args.html = args.html
-			        .replace(/stroke=\"*\"/g, "stroke='#049ae5'");
-		    }
-
+				args.html = args.html
+					.replace("path", "path stroke-dasharray='3, 2'");
+					
+				args.html = args.html
+					.replace(/stroke=\"*\"/g, "stroke='#AA1945'");
+			}
 		});
 	}
 }
