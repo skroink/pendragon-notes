@@ -1,6 +1,6 @@
 ---
 House: House Ravenshaw
-Birth: "[[362]]"
+Birth: "[[462]]"
 Death: 
 Father: 
 Mother: 
@@ -20,7 +20,7 @@ Children:
  >|| Status   |
 > | ---- | ---- |
 > |Status| Alive|
-> |Birth|[[Events And Dates/362.md|362]] <small>(Age 123)</small>  |
+> |Birth|[[462|462]] <small>(Age 23)</small>  |
 >
 >||Relations |
 >|--|--------|
