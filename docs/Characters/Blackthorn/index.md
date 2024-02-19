@@ -25,7 +25,7 @@ hide:
 		            Deceased: { checked:false }
 	            }
             },
-            nodes:  [{"id":1,"photo":"../../images/Isolde of Ravenshaw.jpg","name":"Isolde of Ravenshaw","pids":[2],"gender":"female","house":"House Ravenshaw","status":"Alive"},{"id":2,"photo":"../../images/Geraint ap Gwilym.jpg","name":"Geraint ap Gwilym","pids":[1],"gender":"male","house":"House Dolforwyn","status":"Alive"}]
+            nodes:  [{"id":1,"photo":"../../images/Rhys of Blackthorn.jpg","name":"Rhys of Blackthorn","pids":[2],"gender":"male","house":"Blackthorn","status":"Alive"},{"id":2,"photo":"../../images/Maelona ferch Eilwen.jpg","name":"Maelona ferch Eilwen","pids":[1],"gender":"female","house":"House Dolforwyn","status":"Alive"}]
 		})
 	}
 }

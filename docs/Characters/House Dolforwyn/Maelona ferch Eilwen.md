@@ -4,6 +4,8 @@ Birth: "463"
 Gender: Female
 Father: "[[Gwilym ap Cynric]]"
 Mother: "[[Eilwen ferch Ealdred]]"
+Marriage:
+  - "[[Rhys of Blackthorn|Rhys of Blackthorn]]"
 ---
 
 > [!infobox]+
@@ -19,7 +21,7 @@ Mother: "[[Eilwen ferch Ealdred]]"
 > || Relations   |
 > | Father | [[Gwilym ap Cynric]] |
 > | Mother | [[Eilwen ferch Ealdred]] |
-> | Spouse |  |
+> | Spouse | [[Rhys of Blackthorn|Rhys of Blackthorn]] ([[483|483]] - current) |
 > | Children| |
-> | Siblings | <small>[[Characters/House Dolforwyn/Geraint ap Gwilym|Characters/House Dolforwyn/Geraint ap Gwilym]] (Older brother), [[Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small> |
+> | Siblings | <small>[[Geraint ap Gwilym|Geraint ap Gwilym]] (Older brother), [[Madoc ap Gwilym|Madoc ap Gwilym]] (Younger brother)</small> |
 
