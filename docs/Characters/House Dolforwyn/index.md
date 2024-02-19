@@ -34,25 +34,14 @@ hide:
 			var cnodeData = family.get(args.cnode.id);
 			var nodeData = family.get(args.node.id);
 
-		    if (cnodeData.divorced != undefined && nodeData.divorced != undefined && cnodeData.divorced.includes(args.node.id) && nodeData.divorced.includes(args.cnode.id)) {
+			if (cnodeData.divorced != undefined && nodeData.divorced != undefined && cnodeData.divorced.includes(args.node.id) && nodeData.divorced.includes(args.cnode.id)) {
 
-		        args.html = args.html
-			        .replace("path", "path stroke-dasharray='3, 2'");
-			        
-		        args.html = args.html
-		        .replace(/stroke=\"*\"/g, "stroke='#AA1945'");
-
-		    }
-
-		    if (cnodeData.engaged != undefined && nodeData.engaged != undefined && cnodeData.engaged.includes(args.node.id) && nodeData.engaged.includes(args.cnode.id)) {
-    
-		        args.html = args.html
-			        .replace("path", "path stroke-dasharray='2, 2'");
-			        
-		        args.html = args.html
-			        .replace(/stroke=\"*\"/g, "stroke='#049ae5'");
-		    }
-
+				args.html = args.html
+					.replace("path", "path stroke-dasharray='3, 2'");
+					
+				args.html = args.html
+					.replace(/stroke=\"*\"/g, "stroke='#AA1945'");
+			}
 		});
 	}
 }
