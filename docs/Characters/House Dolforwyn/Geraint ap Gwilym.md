@@ -4,7 +4,22 @@ Birth: "[[460]]"
 Death: 
 Father: "[[Gwilym ap Cynric]]"
 Mother: "[[Eilwen ferch Ealdred]]"
+Marriage:
+  - "[[Isolde of Ravenshaw|Isolde of Ravenshaw]]"
+Gender: Male
+Siblings:
+  - "[[Madoc ap Gwilym|Madoc ap Gwilym]]"
+  - "[[Maelona ferch Eilwen|Maelona ferch Eilwen]]"
+Children: 
+---
+---
+House: House Dolforwyn
+Birth: "[[460]]"
+Death: 
+Father: "[[Gwilym ap Cynric]]"
+Mother: "[[Eilwen ferch Ealdred]]"
 Marriage: 
+  - "[[Isolde of Ravenshaw|Isolde of Ravenshaw]]"
 Gender: Male
 Siblings:
   - "[[Madoc ap Gwilym|Madoc ap Gwilym]]"

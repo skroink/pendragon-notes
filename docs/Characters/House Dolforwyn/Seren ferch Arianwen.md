@@ -7,6 +7,17 @@ Siblings:
   - "[[Emrys ap Bran|Emrys ap Bran]]"
 Gender: Female
 Death: 
+Marriage: 
+---
+---
+House: House Dolforwyn
+Birth: "462"
+Father: "[[Bran ap Cynric]]"
+Mother: "[[Arianwen ferch Cerdic]]"
+Siblings:
+  - "[[Emrys ap Bran|Emrys ap Bran]]"
+Gender: Female
+Death: 
 Marriage:
 ---
 

@@ -18,7 +18,7 @@ Gender: Male
 >|| Relations   |
 > | ---- | ---- |
 > | Father | [[Characters/House Dolforwyn/Emrys ap Bran.md|Emrys ap Bran]] |
-> | Mother | [[Characters/House Snowridge/Eira ferch Gwyn.md|Eira ferch Gwyn]] |
+> | Mother | [[Characters/House Dolforwyn/Eira ferch Gwyn.md|Eira ferch Gwyn]] |
 > | Spouse |  |
 > | Children|  |
 > | Siblings | [Gwenhwyfar ferch Eira](Characters/House Dolforwyn/Gwenhwyfar ferch Eira.md)|
