@@ -4,6 +4,7 @@ Marriage:
   - "[[Emrys ap Bran|Emrys ap Bran]]"
 Gender: Female
 description: Wife to Emrys ap Bran
+Birth: "[[459]]"
 ---
 > [!infobox]+
 > ![[Eira ferch Gwyn.jpg|cover]]
