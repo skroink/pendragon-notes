@@ -38,7 +38,7 @@ Children:
 >|Spouse|  |
 >|Father| [[Characters/House Dolforwyn/Geraint ap Gwilym.md|Geraint ap Gwilym]] |
 >|Mother| [[Characters/House Ravenshaw/Isolde of Ravenshaw.md|Isolde of Ravenshaw]] |
->|Siblings|[[Owain ap Geraint|Owain ap Geraint]]|
+>|Siblings|[[Owain ap Geraint|Owain ap Geraint]] (Younger Brother)|
 >|Children||
 >
 
