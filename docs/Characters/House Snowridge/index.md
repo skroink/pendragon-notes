@@ -2,9 +2,8 @@
 hide:
   - toc
 ---
-| name                                                               |
-| ------------------------------------------------------------------ |
-| [[Characters/House Snowridge/Eira ferch Gwyn.md\|Eira ferch Gwyn]] |
+| name |
+| ---- |
 
 
 <div style="width:100%; height:700px;" id="tree"></div>
