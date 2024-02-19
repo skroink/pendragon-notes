@@ -38,7 +38,7 @@ Children:
 >|Spouse|  |
 >|Father| [[Characters/House Dolforwyn/Geraint ap Gwilym.md|Geraint ap Gwilym]] |
 >|Mother| [[Characters/House Ravenshaw/Isolde of Ravenshaw.md|Isolde of Ravenshaw]] |
->|Siblings|[[Elen ferch Isolde|Elen ferch Isolde]]|
+>|Siblings|[[Elen ferch Isolde|Elen ferch Isolde]] (Older Sister) |
 >|Children||
 >
 
