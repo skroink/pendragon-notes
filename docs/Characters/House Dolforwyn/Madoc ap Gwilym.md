@@ -12,6 +12,8 @@ Siblings:
   - "[[Maelona ferch Eilwen|Maelona ferch Eilwen]]"
 Gender: Male
 cover: "[[Madoc ap Gwilym.png]]"
+Marriage:
+  - "[[Elinor of Tirion|Elinor of Tirion]]"
 ---
 > [!infobox]+
 > ![[Madoc ap Gwilym.jpg|cover]]
@@ -25,7 +27,7 @@ cover: "[[Madoc ap Gwilym.png]]"
 > | ---- | ---- |
 > | Father | [[Characters/House Dolforwyn/Gwilym ap Cynric.md|Gwilym ap Cynric]] |
 > | Mother | [[Characters/House Llyrith/Eilwen ferch Ealdred.md|Eilwen ferch Ealdred]] |
-> | Spouse |  |
+> | Spouse | [[Characters/House Tirion/Elinor of Tirion.md|Elinor of Tirion]] (Betrothed)|
 > | Children|  |
 > | Siblings | [Geraint ap Gwilym](Characters/House Dolforwyn/Geraint ap Gwilym.md), [Maelona ferch Eilwen](Characters/House Dolforwyn/Maelona ferch Eilwen.md)|
 > 
