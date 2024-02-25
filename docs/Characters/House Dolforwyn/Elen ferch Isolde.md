@@ -1,18 +1,6 @@
 ---
 House: House Dolforwyn
 Birth: "[[482]]"
-Death: 
-Father: "[[Geraint ap Gwilym]]"
-Mother: "[[Isolde of Ravenshaw]]"
-Marriage: 
-Gender: Female
-Siblings:
-  - "[[Owain ap Geraint|Owain ap Geraint]]"
-Children: 
----
----
-House: House Dolforwyn
-Birth: "[[482]]"
 Death:
 Father: "[[Geraint ap Gwilym]]"
 Mother: "[[Isolde of Ravenshaw]]"
