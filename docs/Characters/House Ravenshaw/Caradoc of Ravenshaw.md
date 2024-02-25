@@ -20,7 +20,6 @@ Marriage:
 Gender: Male
 Siblings:
  - "[[Isolde of Ravenshaw|Isolde of Ravenshaw]]"
-
 Children: 
 ---
 
