@@ -20,7 +20,6 @@ Marriage:
 Gender: Female
 Siblings:
  - "[[Owain ap Geraint|Owain ap Geraint]]"
-
 Children: 
 ---
 
