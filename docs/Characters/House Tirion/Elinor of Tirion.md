@@ -7,8 +7,6 @@ Mother:
 Marriage:
   - "[[Madoc ap Gwilym|Madoc ap Gwilym]]"
 Gender: Female
-Siblings: 
-Children:
 ---
 
  >[!infobox]+
