@@ -1,18 +1,6 @@
 ---
 House: House Ravenshaw
 Birth: "[[845]]"
-Death: 
-Father: 
-Mother: 
-Marriage: 
-Gender: Male
-Siblings:
-  - "[[Isolde of Ravenshaw|Isolde of Ravenshaw]]"
-Children: 
----
----
-House: House Ravenshaw
-Birth: "[[845]]"
 Death:
 Father: 
 Mother:
