@@ -20,7 +20,6 @@ Marriage:
 Gender: Male
 Siblings:
  - "[[Elen ferch Isolde|Elen ferch Isolde]]"
-
 Children: 
 ---
 
