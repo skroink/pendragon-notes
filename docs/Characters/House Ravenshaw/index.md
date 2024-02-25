@@ -23,7 +23,7 @@ hide:
             photoBinding: "photo",
             buttons: null
             },
-            roots: [1],
+            roots: [3,2],
             filterBy: {
 	            gender: {},
 	            house: {} ,
