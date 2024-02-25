@@ -1,18 +1,6 @@
 ---
 House: House Dolforwyn
 Birth: "[[485]]"
-Death: 
-Father: "[[Geraint ap Gwilym]]"
-Mother: "[[Isolde of Ravenshaw]]"
-Marriage: 
-Gender: Male
-Siblings:
-  - "[[Elen ferch Isolde|Elen ferch Isolde]]"
-Children: 
----
----
-House: House Dolforwyn
-Birth: "[[485]]"
 Death:
 Father: "[[Geraint ap Gwilym]]"
 Mother: "[[Isolde of Ravenshaw]]"
